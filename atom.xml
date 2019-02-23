@@ -4,7 +4,29 @@
     <title> - Articles</title>
     <description>The professional publishing platform</description>
     <link>
-    http://localhost:4000</link>
+    </link>
+    
+      
+      <item>
+        <title>우여곡절 끝에 만든 Jekyll 블로그 (1)</title>
+        
+          <description>&lt;h3 id=&quot;프롤로그&quot;&gt;프롤로그&lt;/h3&gt;
+&lt;p&gt;&lt;br /&gt;
+한 달 전쯤..&lt;br /&gt;
+한두 시간이면 만들 줄 알았던 지킬블로그를 만들다가 포기하고 오늘에서야 완성했다.&lt;/p&gt;
+
+&lt;p&gt;사실은 그렇게 어렵지 않은데 헤매고 있는 나같은 사람을 돕고싶다..&lt;/p&gt;
+
+&lt;p&gt;(macOS Mojave 기준으로 작성하여서 윈도우나 리눅스는 조금 다를 수 있다.)&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Fri, 23 Feb 2018 01:23:00 +0900</pubDate>
+        <link>
+        /make-jekyll-blog-1</link>
+        <guid isPermaLink="true">/make-jekyll-blog-1</guid>
+      </item>
+      
     
       
       <item>
@@ -16,8 +38,8 @@
         
         <pubDate>Thu, 27 Jul 2017 19:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/welcome</link>
-        <guid isPermaLink="true">http://localhost:4000/welcome</guid>
+        /welcome</link>
+        <guid isPermaLink="true">/welcome</guid>
       </item>
       
     
@@ -71,8 +93,8 @@
         
         <pubDate>Thu, 27 Jul 2017 18:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/the-editor</link>
-        <guid isPermaLink="true">http://localhost:4000/the-editor</guid>
+        /the-editor</link>
+        <guid isPermaLink="true">/the-editor</guid>
       </item>
       
     
@@ -111,8 +133,8 @@
         
         <pubDate>Thu, 27 Jul 2017 17:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/using-tags</link>
-        <guid isPermaLink="true">http://localhost:4000/using-tags</guid>
+        /using-tags</link>
+        <guid isPermaLink="true">/using-tags</guid>
       </item>
       
     
@@ -135,8 +157,8 @@
         
         <pubDate>Thu, 27 Jul 2017 16:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/managing-users</link>
-        <guid isPermaLink="true">http://localhost:4000/managing-users</guid>
+        /managing-users</link>
+        <guid isPermaLink="true">/managing-users</guid>
       </item>
       
     
@@ -154,8 +176,8 @@
         
         <pubDate>Thu, 27 Jul 2017 15:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/private-sites</link>
-        <guid isPermaLink="true">http://localhost:4000/private-sites</guid>
+        /private-sites</link>
+        <guid isPermaLink="true">/private-sites</guid>
       </item>
       
     
@@ -210,8 +232,8 @@
         
         <pubDate>Thu, 27 Jul 2017 14:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/advanced-markdown</link>
-        <guid isPermaLink="true">http://localhost:4000/advanced-markdown</guid>
+        /advanced-markdown</link>
+        <guid isPermaLink="true">/advanced-markdown</guid>
       </item>
       
     
@@ -240,8 +262,8 @@
         
         <pubDate>Thu, 27 Jul 2017 13:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/themes</link>
-        <guid isPermaLink="true">http://localhost:4000/themes</guid>
+        /themes</link>
+        <guid isPermaLink="true">/themes</guid>
       </item>
       
     
@@ -255,8 +277,8 @@
         
         <pubDate>Tue, 12 Aug 2014 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/the-businessman-and-fisherman</link>
-        <guid isPermaLink="true">http://localhost:4000/the-businessman-and-fisherman</guid>
+        /the-businessman-and-fisherman</link>
+        <guid isPermaLink="true">/the-businessman-and-fisherman</guid>
       </item>
       
     
@@ -270,8 +292,8 @@
         
         <pubDate>Sat, 01 Sep 2012 19:00:00 +0900</pubDate>
         <link>
-        http://localhost:4000/a-full-and-comprehensive-style-test</link>
-        <guid isPermaLink="true">http://localhost:4000/a-full-and-comprehensive-style-test</guid>
+        /a-full-and-comprehensive-style-test</link>
+        <guid isPermaLink="true">/a-full-and-comprehensive-style-test</guid>
       </item>
       
     
@@ -285,8 +307,8 @@
         
         <pubDate>Wed, 28 Aug 1963 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/i-have-a-dream</link>
-        <guid isPermaLink="true">http://localhost:4000/i-have-a-dream</guid>
+        /i-have-a-dream</link>
+        <guid isPermaLink="true">/i-have-a-dream</guid>
       </item>
       
     
@@ -300,8 +322,8 @@
         
         <pubDate>Sun, 12 Dec 1948 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/the-purpose-of-education</link>
-        <guid isPermaLink="true">http://localhost:4000/the-purpose-of-education</guid>
+        /the-purpose-of-education</link>
+        <guid isPermaLink="true">/the-purpose-of-education</guid>
       </item>
       
     
@@ -315,8 +337,8 @@
         
         <pubDate>Wed, 24 Jul 1912 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/out-to-sea</link>
-        <guid isPermaLink="true">http://localhost:4000/out-to-sea</guid>
+        /out-to-sea</link>
+        <guid isPermaLink="true">/out-to-sea</guid>
       </item>
       
     
@@ -332,8 +354,8 @@ But the black kitten had been finished with earlier in the afternoon, and so, wh
         
         <pubDate>Sat, 18 Mar 1871 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/looking-glass-house</link>
-        <guid isPermaLink="true">http://localhost:4000/looking-glass-house</guid>
+        /looking-glass-house</link>
+        <guid isPermaLink="true">/looking-glass-house</guid>
       </item>
       
     
@@ -347,8 +369,8 @@ But the black kitten had been finished with earlier in the afternoon, and so, wh
         
         <pubDate>Sun, 26 Nov 1865 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/down-the-rabbit-hole</link>
-        <guid isPermaLink="true">http://localhost:4000/down-the-rabbit-hole</guid>
+        /down-the-rabbit-hole</link>
+        <guid isPermaLink="true">/down-the-rabbit-hole</guid>
       </item>
       
     
@@ -362,8 +384,8 @@ But the black kitten had been finished with earlier in the afternoon, and so, wh
         
         <pubDate>Thu, 19 Nov 1863 19:18:00 +0900</pubDate>
         <link>
-        http://localhost:4000/gettysburg-address</link>
-        <guid isPermaLink="true">http://localhost:4000/gettysburg-address</guid>
+        /gettysburg-address</link>
+        <guid isPermaLink="true">/gettysburg-address</guid>
       </item>
       
     
