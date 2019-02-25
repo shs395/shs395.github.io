@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-24T02:59:52+09:00</updated><id>/</id><title type="html">Ghost</title><subtitle>The professional publishing platform</subtitle><entry><title type="html">우여곡절 끝에 만든 Jekyll 블로그 (1)</title><link href="/make-jekyll-blog-1" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (1)" /><published>2018-02-23T01:23:00+09:00</published><updated>2018-02-23T01:23:00+09:00</updated><id>/make-jekyll-blog-1</id><content type="html" xml:base="/make-jekyll-blog-1">&lt;h3 id=&quot;프롤로그&quot;&gt;프롤로그&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-25T13:57:13+09:00</updated><id>/</id><title type="html">치매예방블로그</title><subtitle>자꾸 까먹어서 시작한 블로그</subtitle><entry><title type="html">우여곡절 끝에 만든 Jekyll 블로그 (1)</title><link href="/make-jekyll-blog-1" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (1)" /><published>2018-02-23T01:23:00+09:00</published><updated>2018-02-23T01:23:00+09:00</updated><id>/make-jekyll-blog-1</id><content type="html" xml:base="/make-jekyll-blog-1">&lt;h3 id=&quot;프롤로그&quot;&gt;프롤로그&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
 한 달 전쯤..&lt;br /&gt;
 한두 시간이면 만들 줄 알았던 지킬블로그를 만들다가 포기하고 오늘에서야 완성했다.&lt;/p&gt;
@@ -10,8 +10,9 @@
 &lt;hr /&gt;
 &lt;h2 id=&quot;0-지킬jekyll블로그가-뭘까&quot;&gt;0. 지킬(jekyll)블로그가 뭘까?&lt;/h2&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;“Jekyll 은 아주 심플하고 블로그 지향적인 정적 사이트 생성기입니다.”&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Jekyll 은 아주 심플하고 블로그 지향적인 정적 사이트 생성기입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;jekyll 공식 홈페이지에 써있는 말이다.&lt;br /&gt;
 텍스트파일을 웹사이트에 띄울 수 있게 도와주는 것이라고 생각하면 된다.&lt;br /&gt;
@@ -39,37 +40,43 @@
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;2-루비ruby-개발환경-설치하기&quot;&gt;2. 루비(Ruby) 개발환경 설치하기&lt;/h2&gt;
-&lt;ol&gt;
-  &lt;li&gt;command-line tools을 설치하자
-    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;xcode-select &lt;span class=&quot;nt&quot;&gt;--install&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Homebrew를 설치하자&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;
+1.command-line tools을 설치하자&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;xcode-select &lt;span class=&quot;nt&quot;&gt;--install&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;2.Homebrew를 설치하자&lt;br /&gt;
 -Homewbrew 란? macOS를 위한 패키지 관리자이다.&lt;br /&gt;
-(다른 프로그램 편하게 받게 해주는 것이라고 생각하면 편하다.)
-    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# Install Homebrew&lt;/span&gt;
+(다른 프로그램 편하게 받게 해주는 것이라고 생각하면 편하다.)&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;# Install Homebrew&lt;/span&gt;
 /usr/bin/ruby &lt;span class=&quot;nt&quot;&gt;-e&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;$(&lt;/span&gt;curl &lt;span class=&quot;nt&quot;&gt;-fsSL&lt;/span&gt; https://raw.githubusercontent.com/Homebrew/install/master/install&lt;span class=&quot;k&quot;&gt;)&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Ruby를 설치하자&lt;br /&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;3.Ruby를 설치하자&lt;br /&gt;
 -Ruby 란? 인터프리터 방식의 객체 지향 스크립트 언어이다.
-맥에는 기본적으로 Ruby가 설치되어있으나, (이런저런 이유로) 최신의 Ruby를 새로 까는 것이 편하다.
-    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;brew install ruby
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;그 후에는 아래 명령어를 통해 .bash_profile 에 한 줄 추가해주자&lt;/p&gt;
-    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vi ~/.bash_profile
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/opt/ruby/bin:&lt;span class=&quot;nv&quot;&gt;$PATH&lt;/span&gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
-    &lt;p&gt;를 추가해주자&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+맥에는 기본적으로 Ruby가 설치되어있으나, (이런저런 이유로) 최신의 Ruby를 새로 까는 것이 편하다.&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;brew install ruby
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;그 후에는 아래 명령어를 통해 .bash_profile 에 한 줄 추가해주는데&lt;/p&gt;
+
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;vi ~/.bash_profile
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;를 통해 .bash_profile 파일을 열고&lt;/p&gt;
+&lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;nb&quot;&gt;export &lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;PATH&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;/usr/local/opt/ruby/bin:&lt;span class=&quot;nv&quot;&gt;$PATH&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;마지막 줄에 추가해주면 된다.&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;3-jekyll-블로그-만들어보기&quot;&gt;3. jekyll 블로그 만들어보기&lt;/h2&gt;
 
 &lt;p&gt;기본 준비가 끝났다.&lt;br /&gt;
 jekyll 홈페이지 메인화면에 있는 것처럼 그냥 만들면 된다.&lt;/p&gt;
+
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#bundler 와 jekyll 을 설치한다.&lt;/span&gt;
 gem install bundler jekyll
 
@@ -82,18 +89,23 @@ jekyll new my-awesome-site
 &lt;span class=&quot;c&quot;&gt;#localhost에 호스팅해보자&lt;/span&gt;
 bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;p&gt;http://127.0.0.1:4000 으로 접속해보면 첫 jekyll 블로그가 완성된 것을 볼 수 있다!&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;혹시 아래와 같은 에러가 뜬다면&lt;/p&gt;
+
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; Could not find &lt;span class=&quot;s1&quot;&gt;'bundler'&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;1.17.2&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt; required by your /Users/hyunsuk/coding/test/Gemfile.lock. &lt;span class=&quot;o&quot;&gt;(&lt;/span&gt;Gem::GemNotFoundException&lt;span class=&quot;o&quot;&gt;)&lt;/span&gt;
 To update to the latest version installed on your system, run &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;bundle update &lt;span class=&quot;nt&quot;&gt;--bundler&lt;/span&gt;&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;.&lt;/span&gt;
 To install the missing version, run &lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;gem install bundler:1.17.2&lt;span class=&quot;sb&quot;&gt;`&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;p&gt;아래 명령을 통해 해결할 수 있다.&lt;/p&gt;
+
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;bundle update &lt;span class=&quot;nt&quot;&gt;--bundler&lt;/span&gt;
 gem install bundler:1.17.2  
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
 &lt;hr /&gt;
 &lt;h2 id=&quot;4-마무리&quot;&gt;4. 마무리&lt;/h2&gt;
 &lt;p&gt;jekyll 블로그 만드는 것, 생각보다 어렵지 않다.&lt;br /&gt;
@@ -104,7 +116,7 @@ gem install bundler:1.17.2
 &lt;/ul&gt;
 
 &lt;p&gt;하지만 이런 기본적인 블로그를 사용하고 싶어하는 사람은 많지 않다.&lt;br /&gt;
-다음 글에서는 예쁜 블로그를 만들 수 있는 &lt;u&gt;테마 적용법&lt;/u&gt;에 대해 다루겠다.&lt;/p&gt;</content><author><name>hyunsuk</name></author><category term="jekyll-ffff-ff" /><summary type="html">프롤로그 한 달 전쯤.. 한두 시간이면 만들 줄 알았던 지킬블로그를 만들다가 포기하고 오늘에서야 완성했다. 사실은 그렇게 어렵지 않은데 헤매고 있는 나같은 사람을 돕고싶다.. (macOS Mojave 기준으로 작성하여서 윈도우나 리눅스는 조금 다를 수 있다.)</summary></entry><entry><title type="html">Welcome to Ghost</title><link href="/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T19:00:00+09:00</published><updated>2017-07-27T19:00:00+09:00</updated><id>/welcome</id><content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
+다음 글에서는 예쁜 블로그를 만들 수 있는 &lt;u&gt;테마 적용법&lt;/u&gt;에 대해 다루겠다.&lt;/p&gt;</content><author><name>hyunsuk</name></author><category term="jekyll" /><summary type="html">프롤로그 한 달 전쯤.. 한두 시간이면 만들 줄 알았던 지킬블로그를 만들다가 포기하고 오늘에서야 완성했다. 사실은 그렇게 어렵지 않은데 헤매고 있는 나같은 사람을 돕고싶다.. (macOS Mojave 기준으로 작성하여서 윈도우나 리눅스는 조금 다를 수 있다.)</summary></entry><entry><title type="html">Welcome to Ghost</title><link href="/welcome" rel="alternate" type="text/html" title="Welcome to Ghost" /><published>2017-07-27T19:00:00+09:00</published><updated>2017-07-27T19:00:00+09:00</updated><id>/welcome</id><content type="html" xml:base="/welcome">&lt;p&gt;Hey! Welcome to Ghost, it’s great to have you :)&lt;/p&gt;
 
 &lt;p&gt;We know that first impressions are important, so we’ve populated your new site with some initial &lt;strong&gt;Getting Started&lt;/strong&gt; posts that will help you get familiar with everything in no time. This is the first one!&lt;/p&gt;
 
