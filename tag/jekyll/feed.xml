@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/tag/jekyll/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/" rel="alternate" type="text/html" />
-  <updated>2019-02-25T15:10:46+09:00</updated>
+  <updated>2019-02-25T18:56:45+09:00</updated>
   <id>/tag/jekyll/feed.xml</id>
 
   
@@ -12,7 +12,7 @@
   
 
   
-    <title type="html">치매예방블로그 | </title>
+    <title type="html">치매예방IT블로그 | </title>
   
 
   
@@ -25,8 +25,6 @@
     
       
     
-      
-    
   
 
   
@@ -34,8 +32,8 @@
 
   
     <entry>
-      <title type="html">우여곡절 끝에 만든 Jekyll 블로그 (1)</title>
-      <link href="/make-jekyll-blog-2" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (1)" />
+      <title type="html">우여곡절 끝에 만든 Jekyll 블로그 (2)</title>
+      <link href="/make-jekyll-blog-2" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (2)" />
       <published>2018-02-25T23:53:00+09:00</published>
       <updated>2018-02-25T23:53:00+09:00</updated>
       <id>/make-jekyll-blog-2</id>
@@ -165,7 +163,9 @@ jekyll new my-awesome-site
 bundle &lt;span class=&quot;nb&quot;&gt;exec &lt;/span&gt;jekyll serve
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;http://127.0.0.1:4000 으로 접속해보면 첫 jekyll 블로그가 완성된 것을 볼 수 있다!&lt;/p&gt;
+&lt;p&gt;http://127.0.0.1:4000 으로 접속해보면 아래와 같이 첫 jekyll 블로그가 완성된 것을 볼 수 있다!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/jekyll1.png&quot; alt=&quot;jekyll 1&quot; /&gt;&lt;/p&gt;
 
 &lt;hr /&gt;
 &lt;p&gt;혹시 아래와 같은 에러가 뜬다면&lt;/p&gt;
