@@ -8,6 +8,20 @@
     
       
       <item>
+        <title>test3</title>
+        
+          <description>
+</description>
+        
+        <pubDate>Sun, 25 Feb 2018 23:53:00 +0900</pubDate>
+        <link>
+        /test2</link>
+        <guid isPermaLink="true">/test2</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>우여곡절 끝에 만든 Jekyll 블로그 (2)</title>
         
           <description>&lt;p&gt;test&lt;/p&gt;
