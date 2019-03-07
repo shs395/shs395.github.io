@@ -8,26 +8,21 @@
     
       
       <item>
-        <title>test3</title>
+        <title>우여곡절 끝에 만든 Jekyll 블로그 (2) - jasper2 테마 적용해보기</title>
         
-          <description>
+          <description>&lt;h2 id=&quot;1-테마-고르기&quot;&gt;1. 테마 고르기&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+지킬 블로그를 꾸밀 수 있는 수 많은 테마가 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jekyllthemes.io&quot;&gt;https://jekyllthemes.io&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://jekyllthemes.org&quot;&gt;http://jekyllthemes.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;젬 기반 테마&lt;br /&gt;
+&lt;a href=&quot;https://rubygems.org/search?utf8=✓&amp;amp;query=jekyll-theme&quot;&gt;https://rubygems.org/search?utf8=✓&amp;amp;query=jekyll-theme&lt;/a&gt;&lt;/p&gt;
+
 </description>
         
-        <pubDate>Sun, 25 Feb 2018 23:53:00 +0900</pubDate>
-        <link>
-        /test2</link>
-        <guid isPermaLink="true">/test2</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>우여곡절 끝에 만든 Jekyll 블로그 (2)</title>
-        
-          <description>&lt;p&gt;test&lt;/p&gt;
-</description>
-        
-        <pubDate>Sun, 25 Feb 2018 23:53:00 +0900</pubDate>
+        <pubDate>Thu, 07 Mar 2019 00:33:00 +0900</pubDate>
         <link>
         /make-jekyll-blog-2</link>
         <guid isPermaLink="true">/make-jekyll-blog-2</guid>
@@ -36,7 +31,7 @@
     
       
       <item>
-        <title>우여곡절 끝에 만든 Jekyll 블로그 (1)</title>
+        <title>우여곡절 끝에 만든 Jekyll 블로그 (1) - 시작하기</title>
         
           <description>&lt;h3 id=&quot;프롤로그&quot;&gt;프롤로그&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
@@ -49,7 +44,7 @@
 
 </description>
         
-        <pubDate>Fri, 23 Feb 2018 01:23:00 +0900</pubDate>
+        <pubDate>Sat, 23 Feb 2019 01:23:00 +0900</pubDate>
         <link>
         /make-jekyll-blog-1</link>
         <guid isPermaLink="true">/make-jekyll-blog-1</guid>

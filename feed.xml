@@ -1,4 +1,49 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-02-26T17:01:21+09:00</updated><id>/</id><title type="html">치매예방IT블로그</title><subtitle>자꾸 까먹어서 시작한 블로그</subtitle><entry><title type="html">test3</title><link href="/test2" rel="alternate" type="text/html" title="test3" /><published>2018-02-25T23:53:00+09:00</published><updated>2018-02-25T23:53:00+09:00</updated><id>/test2</id><content type="html" xml:base="/test2"></content><author><name>hyunsuk</name></author><category term="test" /><summary type="html"></summary></entry><entry><title type="html">우여곡절 끝에 만든 Jekyll 블로그 (2)</title><link href="/make-jekyll-blog-2" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (2)" /><published>2018-02-25T23:53:00+09:00</published><updated>2018-02-25T23:53:00+09:00</updated><id>/make-jekyll-blog-2</id><content type="html" xml:base="/make-jekyll-blog-2">&lt;p&gt;test&lt;/p&gt;</content><author><name>hyunsuk</name></author><category term="jekyll" /><summary type="html">test</summary></entry><entry><title type="html">우여곡절 끝에 만든 Jekyll 블로그 (1)</title><link href="/make-jekyll-blog-1" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (1)" /><published>2018-02-23T01:23:00+09:00</published><updated>2018-02-23T01:23:00+09:00</updated><id>/make-jekyll-blog-1</id><content type="html" xml:base="/make-jekyll-blog-1">&lt;h3 id=&quot;프롤로그&quot;&gt;프롤로그&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2019-03-07T10:15:58+09:00</updated><id>/</id><title type="html">치매예방IT블로그</title><subtitle>자꾸 까먹어서 시작한 블로그</subtitle><entry><title type="html">우여곡절 끝에 만든 Jekyll 블로그 (2) - jasper2 테마 적용해보기</title><link href="/make-jekyll-blog-2" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (2) - jasper2 테마 적용해보기" /><published>2019-03-07T00:33:00+09:00</published><updated>2019-03-07T00:33:00+09:00</updated><id>/make-jekyll-blog-2</id><content type="html" xml:base="/make-jekyll-blog-2">&lt;h2 id=&quot;1-테마-고르기&quot;&gt;1. 테마 고르기&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+지킬 블로그를 꾸밀 수 있는 수 많은 테마가 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jekyllthemes.io&quot;&gt;https://jekyllthemes.io&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://jekyllthemes.org&quot;&gt;http://jekyllthemes.org&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;젬 기반 테마&lt;br /&gt;
+&lt;a href=&quot;https://rubygems.org/search?utf8=✓&amp;amp;query=jekyll-theme&quot;&gt;https://rubygems.org/search?utf8=✓&amp;amp;query=jekyll-theme&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;젬 기반 테마는 지킬 3.2 버전부터 새로 생긴 기능으로 자세한 것을 알고 싶다면 &lt;a href=&quot;https://jekyllrb.com/docs/themes/&quot;&gt;공식홈페이지&lt;/a&gt;에서 보자.&lt;/p&gt;
+
+&lt;p&gt;이 글에서는 이 블로그에서 사용한 jasper2 테마를 적용하는 방법을 비교적 자세하게 소개한다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;jasper2 는?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;ghost 의 기본 테마인 casper2 버전을 지킬 버전으로 만든 것이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;ghost 는?&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;/assets/images/what-is-ghost.png&quot; alt=&quot;what is ghost?&quot; /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;라고 한댄다.&lt;/p&gt;
+
+&lt;p&gt;jasper2 gihub 주소 : &lt;a href=&quot;https://github.com/jekyller/jasper2&quot;&gt;https://github.com/jekyller/jasper2&lt;/a&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;2-테마-적용하기&quot;&gt;2. 테마 적용하기&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+정말 쉽다.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;다운을 받는다.&lt;/li&gt;
+  &lt;li&gt;내용물을 원하는 폴더로 옮겨준다.&lt;/li&gt;
+  &lt;li&gt;bundle exec jekyll serve&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+&lt;h4 id=&quot;2-1-다운받기&quot;&gt;2-1 다운받기&lt;/h4&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+&lt;a href=&quot;https://github.com/jekyller/jasper2&quot;&gt;jasper2 gihub&lt;/a&gt;로 들어가서 우측에 Clone or download 버튼을 통해 다운로드해주면 된다.
+&lt;img src=&quot;/assets/images/jasper2-download.png&quot; alt=&quot;jasper2 다운받기&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;2-2-내용물을-원하는-폴더로-옮기기&quot;&gt;2-2 내용물을 원하는 폴더로 옮기기&lt;/h4&gt;</content><author><name>Hyunsuk Shin</name></author><category term="jekyll" /><summary type="html">1. 테마 고르기 지킬 블로그를 꾸밀 수 있는 수 많은 테마가 있다. https://jekyllthemes.io http://jekyllthemes.org 젬 기반 테마 https://rubygems.org/search?utf8=✓&amp;amp;query=jekyll-theme</summary></entry><entry><title type="html">우여곡절 끝에 만든 Jekyll 블로그 (1) - 시작하기</title><link href="/make-jekyll-blog-1" rel="alternate" type="text/html" title="우여곡절 끝에 만든 Jekyll 블로그 (1) - 시작하기" /><published>2019-02-23T01:23:00+09:00</published><updated>2019-02-23T01:23:00+09:00</updated><id>/make-jekyll-blog-1</id><content type="html" xml:base="/make-jekyll-blog-1">&lt;h3 id=&quot;프롤로그&quot;&gt;프롤로그&lt;/h3&gt;
 &lt;p&gt;&lt;br /&gt;
 한 달 전쯤..&lt;br /&gt;
 한두 시간이면 만들 줄 알았던 지킬블로그를 만들다가 포기하고 오늘에서야 완성했다.&lt;/p&gt;
@@ -73,8 +118,8 @@
 
 &lt;hr /&gt;
 &lt;h2 id=&quot;3-jekyll-블로그-만들어보기&quot;&gt;3. jekyll 블로그 만들어보기&lt;/h2&gt;
-
-&lt;p&gt;기본 준비가 끝났다.&lt;br /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;
+기본 준비가 끝났다.&lt;br /&gt;
 jekyll 홈페이지 메인화면에 있는 것처럼 그냥 만들면 된다.&lt;/p&gt;
 
 &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;#bundler 와 jekyll 을 설치한다.&lt;/span&gt;
@@ -109,13 +154,44 @@ gem install bundler:1.17.2
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
 &lt;hr /&gt;
-&lt;h2 id=&quot;4-마무리&quot;&gt;4. 마무리&lt;/h2&gt;
-&lt;p&gt;jekyll 블로그 만드는 것, 생각보다 어렵지 않다.&lt;br /&gt;
-두 가지만 알면 된다.&lt;/p&gt;
+&lt;h2 id=&quot;4-배포하기&quot;&gt;4. 배포하기&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+위에서 만든 블로그는 다른 사람이 접속할 수가 없다.&lt;br /&gt;
+github pages 를 이용하면 쉽고, 무료로 블로그를 호스팅 할 수 있다.&lt;br /&gt;
+github pages 사용법은 역시 &lt;a href=&quot;https://pages.github.com&quot;&gt;공식홈페이지&lt;/a&gt;에 아주 자세하게 나와있다.&lt;/p&gt;
+
+&lt;p&gt;혹시 github page 기능을 먼저 써본 사람 중에서, 여러 블로그들을 돌아다니다가 궁금점이 생긴 사람이 있을 것이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;www.github.com/repository이름&lt;/strong&gt; 의 주소로 page가 만들어지는데&lt;br /&gt;
+기술블로그의 주소는 &lt;strong&gt;깃헙아이디.github.io&lt;/strong&gt; 인 경우가 많다.&lt;/p&gt;
+
+&lt;p&gt;방법은 간단한데, github 저장소 이름을&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;깃헙아이디.github.io&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;로 만들어주면 github pages 에서 &lt;u&gt;깃헙아이디.github.io&lt;/u&gt; 주소로 접근할 수 있게 해준다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;정말 간단하게 요약하자면,&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;깃허브에 깃헙아이디.github.io 라는 이름의 저장소를 만들어준다.&lt;/li&gt;
+  &lt;li&gt;그 저장소에 블로그를 올린다.&lt;/li&gt;
+  &lt;li&gt;저장소를 github pages 기능을 이용하여 배포한다.(&lt;a href=&quot;https://pages.github.com&quot;&gt;공식홈페이지&lt;/a&gt; 참고)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;불친절할 수 있지만, 깃허브 이용법이나 저장소 생성, push 같은 내용은 다 알 것이라고 생각하고 생략한다. 인터넷에 찾아보면 엄청나게 자세하게 설명되어 있다..&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;5-마무리&quot;&gt;5. 마무리&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;
+jekyll 블로그 만드는 것, 생각보다 어렵지 않다.&lt;br /&gt;
+세 가지만 알면 된다.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;Ruby 설치 후에 jekyll 설치하기&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;&lt;u&gt;잘 안되면 공식 홈페이지 보고 하기!!&lt;/u&gt;&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;깃헙아이디.github.io 라는 이름의 repository 에 올려서 배포하기&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;하지만 이런 기본적인 블로그를 사용하고 싶어하는 사람은 많지 않다.&lt;br /&gt;
-다음 글에서는 예쁜 블로그를 만들 수 있는 &lt;u&gt;테마 적용법&lt;/u&gt;에 대해 다루겠다.&lt;/p&gt;</content><author><name>hyunsuk</name></author><category term="jekyll" /><summary type="html">프롤로그 한 달 전쯤.. 한두 시간이면 만들 줄 알았던 지킬블로그를 만들다가 포기하고 오늘에서야 완성했다. 사실은 그렇게 어렵지 않은데 헤매고 있는 나같은 사람을 돕고싶다.. (macOS Mojave 기준으로 작성하여서 윈도우나 리눅스는 조금 다를 수 있다.)</summary></entry></feed>
+다음 글에서는 예쁜 블로그를 만들 수 있는 &lt;u&gt;테마 적용법&lt;/u&gt;에 대해 다루겠다.&lt;/p&gt;</content><author><name>Hyunsuk Shin</name></author><category term="jekyll" /><summary type="html">프롤로그 한 달 전쯤.. 한두 시간이면 만들 줄 알았던 지킬블로그를 만들다가 포기하고 오늘에서야 완성했다. 사실은 그렇게 어렵지 않은데 헤매고 있는 나같은 사람을 돕고싶다.. (macOS Mojave 기준으로 작성하여서 윈도우나 리눅스는 조금 다를 수 있다.)</summary></entry></feed>
