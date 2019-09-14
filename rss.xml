@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IT Blog]]></title><description><![CDATA[군대에서 쓰는 blog]]></description><link>https://shs395.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 14 Sep 2019 09:37:04 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[1.scripts 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IT Blog]]></title><description><![CDATA[IT Blog]]></description><link>https://shs395.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 14 Sep 2019 11:10:25 GMT</lastBuildDate><item><title><![CDATA[190914_TIL]]></title><description><![CDATA[오늘 한 일 오늘 배운 것 1.scripts 
 2.zulu time
-3.vagrant]]></description><link>https://shs395.github.io/til/2019-09-14-til/</link><guid isPermaLink="false">https://shs395.github.io/til/2019-09-14-til/</guid><content:encoded>&lt;p&gt;1.scripts
+3.vagrant]]></description><link>https://shs395.github.io/til/2019-09-14-til/</link><guid isPermaLink="false">https://shs395.github.io/til/2019-09-14-til/</guid><pubDate>Sat, 14 Sep 2019 11:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;오늘 한 일&lt;/h3&gt;
+&lt;h3&gt;오늘 배운 것&lt;/h3&gt;
+&lt;p&gt;1.scripts
 2.zulu time
-3.vagrant&lt;/p&gt;</content:encoded></item><item><title><![CDATA[VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기]]></title><description><![CDATA[gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost…]]></description><link>https://shs395.github.io/gatsby-blog/vm-localhost/</link><guid isPermaLink="false">https://shs395.github.io/gatsby-blog/vm-localhost/</guid><pubDate>Sat, 14 Sep 2019 09:30:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost에 접속을 해서 내 블로그가 잘 만들어지고 있는지 확인을 못한다는 사실이었다. &lt;del&gt;그래서 배포를 통한 확인만이 답인가?&lt;/del&gt; 라는 바보같은 생각을 할 때쯤 구글링으로 답을 발견했다.&lt;br&gt;
+3.vagrant&lt;/p&gt;</content:encoded></item><item><title><![CDATA[유용한 웹사이트]]></title><description><![CDATA[website 점수 매겨주는 곳 https://website.grader.com/]]></description><link>https://shs395.github.io/useful-website/</link><guid isPermaLink="false">https://shs395.github.io/useful-website/</guid><pubDate>Sat, 14 Sep 2019 11:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;website 점수 매겨주는 곳&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://website.grader.com/&quot;&gt;https://website.grader.com/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기]]></title><description><![CDATA[gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost…]]></description><link>https://shs395.github.io/gatsby-blog/vm-localhost/</link><guid isPermaLink="false">https://shs395.github.io/gatsby-blog/vm-localhost/</guid><pubDate>Sat, 14 Sep 2019 09:30:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost에 접속을 해서 내 블로그가 잘 만들어지고 있는지 확인을 못한다는 사실이었다. &lt;del&gt;그래서 배포를 통한 확인만이 답인가?&lt;/del&gt; 라는 바보같은 생각을 할 때쯤 구글링으로 답을 발견했다.&lt;br&gt;
 참고 : &lt;a href=&quot;https://geeklab.tistory.com/61?category=251056&quot;&gt;jekyll를 이용한 GitHub Pages에 블로그 만들기 #1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;그 후에야 아래와 같이 공식홈페이지에 써있던 내용인 것을 알았다.&lt;/p&gt;
 &lt;p&gt;If you are using VM setup like vagrant and/or would like to listen on your local IP address, run gatsby develop — —host=0.0.0.0. Now, the development server listens on both ‘localhost’ and your local IP.  &lt;/p&gt;
@@ -262,10 +265,18 @@ Node Package Manager  &lt;/li&gt;
 &lt;h2&gt;Q&lt;/h2&gt;
 &lt;h2&gt;R&lt;/h2&gt;
 &lt;h2&gt;S&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;SEO&lt;/p&gt;
 &lt;h2&gt;T&lt;/h2&gt;
 &lt;h2&gt;U&lt;/h2&gt;
 &lt;h2&gt;V&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Vagrant&lt;/p&gt;
 &lt;h2&gt;W&lt;/h2&gt;
 &lt;h2&gt;X&lt;/h2&gt;
 &lt;h2&gt;Y&lt;/h2&gt;
-&lt;h2&gt;Z&lt;/h2&gt;</content:encoded></item></channel></rss>
+&lt;h2&gt;Z&lt;/h2&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item></channel></rss>
