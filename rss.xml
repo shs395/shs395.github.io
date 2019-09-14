@@ -1,24 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog]]></title><description><![CDATA[A starter blog demonstrating what Gatsby can do.]]></description><link>https://gatsby-starter-blog-demo.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Sep 2019 11:29:22 GMT</lastBuildDate><item><title><![CDATA[Gatsby + Github pages 로 블로그 만들기 - 2]]></title><link>https://gatsby-starter-blog-demo.netlify.com/gatsby-blog/2/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/gatsby-blog/2/</guid><pubDate>Mon, 09 Sep 2019 22:40:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Gatsby + Github pages 로 블로그 만들기 - 1]]></title><link>https://gatsby-starter-blog-demo.netlify.com/gatsby-blog/1/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/gatsby-blog/1/</guid><pubDate>Mon, 09 Sep 2019 22:40:32 GMT</pubDate><content:encoded></content:encoded></item><item><title><![CDATA[Gatsby + Github pages 로 블로그 만들기 - 0]]></title><description><![CDATA[Gatsby + Github pages 로 블로그 만들기   개발환경 : 구름IDE 무료 버전 (Ubuntu 14.04 LTS) 군대라는 장소적 제약 때문에 구름 IDE…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/gatsby-blog/0/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/gatsby-blog/0/</guid><pubDate>Mon, 09 Sep 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Gatsby + Github pages 로 블로그 만들기  &lt;/p&gt;
-&lt;p&gt;개발환경 : 구름IDE 무료 버전 (Ubuntu 14.04 LTS)&lt;/p&gt;
-&lt;p&gt;군대라는 장소적 제약 때문에 구름 IDE를 선택하게 되었는데, 과거에 썼던 맥이 얼마나 좋은지를 체감하고 있다..&lt;/p&gt;
-&lt;p&gt;gatsby선정이유&lt;/p&gt;
-&lt;p&gt;과거에 jekyll 을 이용한 github 블로그를 만들다가 ruby 가 너무 익숙치 않아서 포기하고 인터넷 검색 중에 node 기반의 hexo 를 찾아냈고 추가로 검색하다가 gatsby 를 알게 되었다. gatsby는 React(요즘 핫해서,,)로 이루어져 있고 비교적 최신 것이며 star 도 많이 받았기 때문에 선택했다. 게다가 jekyll 블로그 관련 포스팅은 넘쳐나는데 비해 gatsby 관련 포스팅은 그나마 적었던 것도 한몫했다.
-gatsby 공식홈페이지에 가면 다른 프레임워크들과 비교해놓았는데, 자기네들 홈페이지라 그런지 다른 프레임워크들보다 모든 부분에서 좋았다… &lt;a href=&quot;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&quot;&gt;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&lt;/a&gt;
-다른 언어가 익숙하다면 다른 프레임워크를 찾아보는 것도 좋다.
-jekyll,hugo,hexo 등등&lt;/p&gt;
-&lt;p&gt;시작하기&lt;/p&gt;
-&lt;p&gt;예전에 영어를 배우면 접할 수 있는 정보의 양이 차원이 다르다는 말을 들었는데, 요즘 실감하는 것 같다. 영어를 잘하는 편은 아니지만, 공식홈페이지를 따라가보면서 이 글을 완성할 예정이다. 개인적으로 공식홈페이지를 보는 것을 추천하고 좋아한다. 당연한 이야기지만, 공식홈페이지에는 블로그보다 훨씬 많은 정보가 있고 자세하다.. 하지만 간단하게 블로그를 사용하거나 영어의 압박이 있는 분들은 블로그를 보는 것도 나쁘지 않다고 본다.&lt;/p&gt;
-&lt;p&gt;설치하기&lt;/p&gt;
-&lt;p&gt;설치하기 전에 개발환경이 마련되어 있어야 한다.&lt;/p&gt;
-&lt;p&gt;튜토리얼에서는 homebrew 를 설치하라고 되어있지만 설치하지 않아도 상관없다.
-node, npm, git 을 설치해야한다.&lt;/p&gt;
-&lt;p&gt;그 후에 npm install -g gatsby-cli
-를 통해 gatsby 를 설치해준다. &lt;/p&gt;
-&lt;p&gt;그 후에는 gatsby new hello-world &lt;a href=&quot;https://github.com/gatsbyjs/gatsby-starter-hello-world&quot;&gt;https://github.com/gatsbyjs/gatsby-starter-hello-world&lt;/a&gt;
-cd hello-world
-gatsby develop
-를 통해 실행해보면 &lt;a href=&quot;http://localhost:8000&quot;&gt;http://localhost:8000&lt;/a&gt; 에서 확인할 수 있다고 나온다.&lt;/p&gt;
-&lt;p&gt;그런데 여기서 중요한 점이 있다.
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IT Blog]]></title><description><![CDATA[군대에서 쓰는 blog]]></description><link>https://shs395.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 14 Sep 2019 06:43:18 GMT</lastBuildDate><item><title><![CDATA[단어 정리]]></title><description><![CDATA[A B C D E F G Git GraphQL H Hexo Homebrew I J Jekyll JSX K L M Markup language Markdown language N Node NPM Node Package Manager   O P Q R S…]]></description><link>https://shs395.github.io/dictionary/</link><guid isPermaLink="false">https://shs395.github.io/dictionary/</guid><pubDate>Mon, 09 Sep 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;A&lt;/h2&gt;
+&lt;h2&gt;B&lt;/h2&gt;
+&lt;h2&gt;C&lt;/h2&gt;
+&lt;h2&gt;D&lt;/h2&gt;
+&lt;h2&gt;E&lt;/h2&gt;
+&lt;h2&gt;F&lt;/h2&gt;
+&lt;h2&gt;G&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Git&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;GraphQL&lt;/p&gt;
+&lt;h2&gt;H&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Hexo&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Homebrew&lt;/p&gt;
+&lt;h2&gt;I&lt;/h2&gt;
+&lt;h2&gt;J&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Jekyll&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;JSX&lt;/p&gt;
+&lt;h2&gt;K&lt;/h2&gt;
+&lt;h2&gt;L&lt;/h2&gt;
+&lt;h2&gt;M&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Markup language&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Markdown language&lt;/p&gt;
+&lt;h2&gt;N&lt;/h2&gt;
+&lt;/li&gt;
+&lt;li&gt;Node&lt;/li&gt;
+&lt;li&gt;NPM&lt;br&gt;
+Node Package Manager  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;O&lt;/h2&gt;
+&lt;h2&gt;P&lt;/h2&gt;
+&lt;h2&gt;Q&lt;/h2&gt;
+&lt;h2&gt;R&lt;/h2&gt;
+&lt;h2&gt;S&lt;/h2&gt;
+&lt;h2&gt;T&lt;/h2&gt;
+&lt;h2&gt;U&lt;/h2&gt;
+&lt;h2&gt;V&lt;/h2&gt;
+&lt;h2&gt;W&lt;/h2&gt;
+&lt;h2&gt;X&lt;/h2&gt;
+&lt;h2&gt;Y&lt;/h2&gt;
+&lt;h2&gt;Z&lt;/h2&gt;</content:encoded></item><item><title><![CDATA[빠르게 Gatsby + Github pages 로 블로그 만들기]]></title><description><![CDATA[이 글을 보면 좋은 사람들 영어로 된 공식홈페이지를 읽기 귀찮은 분 빠르고 간결하게 gatsby 블로그를 만들어서 github pages에 배포하고 싶으신 분 개발환경 구름IDE 무료 버전 (Ubuntu 14.04 LTS…]]></description><link>https://shs395.github.io/gatsby-blog/</link><guid isPermaLink="false">https://shs395.github.io/gatsby-blog/</guid><pubDate>Mon, 09 Sep 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h3&gt;이 글을 보면 좋은 사람들&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;영어로 된 공식홈페이지를 읽기 귀찮은 분&lt;/li&gt;
+&lt;li&gt;빠르고 간결하게 gatsby 블로그를 만들어서 github pages에 배포하고 싶으신 분&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;개발환경&lt;/h3&gt;
+&lt;p&gt;구름IDE 무료 버전 (Ubuntu 14.04 LTS) - 군대라는 장소적 제약 때문에..&lt;/p&gt;
+&lt;h3&gt;gatsby 선정이유&lt;/h3&gt;
+&lt;p&gt;&lt;del&gt;과거에 jekyll 을 이용한 github 블로그를 만들다가 ruby 가 너무 익숙치 않아서 포기하고(수정을 못하겠다..) 인터넷 검색 중에 gatsby 를 알게 되었다. gatsby는 React(요즘 핫해서,,)로 이루어져 있고 비교적 최신 것이며 star 도 많이 받았기 때문에 선택했다. 게다가 jekyll 블로그 관련 포스팅이 gatsby 관련 포스팅에 비해 2배 많았던 것도 한몫했다.&lt;/del&gt;  &lt;/p&gt;
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;다른 프레임워크들보다 모든 부분에서 좋댄다&lt;/strong&gt;&lt;/u&gt;&lt;br&gt;
+(참고 :&lt;a href=&quot;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&quot;&gt;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&lt;/a&gt;)  &lt;/p&gt;
+&lt;p&gt;다른 언어가 익숙하다면 jekyll,hugo,hexo 등의 다른 프레임워크를 찾아보는 것도 좋다. &lt;/p&gt;
+&lt;h3&gt;시작하기&lt;/h3&gt;
+&lt;h4&gt;설치되어 있어햐 하는 것&lt;/h4&gt;
+&lt;p&gt;node / npm / git / &lt;del&gt;homebrew&lt;/del&gt; (설치 안해도 무관)&lt;/p&gt;
+&lt;h4&gt;gatsby 설치&lt;/h4&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; -g gatsby-cli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;테마 골라서 설치하기&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.org/starters/?v=2&quot;&gt;https://www.gatsbyjs.org/starters/?v=2&lt;/a&gt; 에서 원하는 테마 찾아보기&lt;br&gt;
+가장 별이 많은 기본 테마로 해보았다.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;gatsby new &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;원하는 폴더 이름&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; https://github.com/gatsbyjs/gatsby-starter-blog
+&lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;원하는 폴더 이름&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
+gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;까지하면 &lt;a href=&quot;http://localhost:8000&quot;&gt;http://localhost:8000&lt;/a&gt; 에서 블로그를 확인할 수 있다!  &lt;/p&gt;
+&lt;h5&gt;VM(구름IDE, Google Cloud Platform 등)을 이용하는 경우에 localhost 접속하기!&lt;/h5&gt;
+&lt;h3&gt;글 작성하기&lt;/h3&gt;
+&lt;p&gt;content/blog/gatsby-blog/index.md&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;---
+title: 빠르게 Gatsby + Github pages 로 블로그 만들기
+date: &amp;quot;2019-09-09T22:40:32.169Z&amp;quot;
+description: Gatsby 로 블로그를 만들어보자
+---
+### 이 글을 보면 좋은 사람들
+(생략)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;블로그 정보 수정하기&lt;/h3&gt;
+&lt;p&gt;gatsby-config.js - 블로그와 관련한 설정을 하는 파일&lt;br&gt;
+블로그 이름 등등을 바꿔주자&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;siteMetadata: {
+    title: `IT Blog`,
+    author: `Hyunsuk Shin`,
+    description: `군대에서 쓰는 blog`,
+    siteUrl: `https://shs395.github.io/`,
+    social: {
+    },&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;github pages 배포&lt;/h3&gt;
+&lt;p&gt;gh-pages package 설치&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; gh-pages --save-dev&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;배포하려는 github repository 이름이 username.github.io 가 아닌 경우&lt;/h4&gt;
+&lt;p&gt;gatsby-config.js&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  pathPrefix&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;/respository이름&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;package.json&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;&quot;deploy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby build --prefix-paths &amp;amp;&amp;amp; gh-pages -d public&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h4&gt;배포하려는 github repository 이름이 username.github.io 인 경우&lt;/h4&gt;
+&lt;p&gt;gatsby-config.js 수정 X&lt;br&gt;
+package.json&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+  &lt;span class=&quot;token property&quot;&gt;&quot;scripts&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;token property&quot;&gt;&quot;deploy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby build &amp;amp;&amp;amp; gh-pages -d public -b master&quot;&lt;/span&gt;
+  &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h3&gt;배포하기!&lt;/h3&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;username.github.io&lt;/u&gt; 혹은 &lt;u&gt;username.github.io/repo이름&lt;/u&gt; 에서 확인 가능하다.&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Gatsby + Github pages 로 블로그 만들기 - 1]]></title><description><![CDATA[그런데 여기서 중요한 점이 있다.
+필자처럼 goormIDE를 사용하거나 google cloud platform 같은 virtual machine…]]></description><link>https://shs395.github.io/gatsby-blog/1/</link><guid isPermaLink="false">https://shs395.github.io/gatsby-blog/1/</guid><pubDate>Mon, 09 Sep 2019 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;그런데 여기서 중요한 점이 있다.
 필자처럼 goormIDE를 사용하거나 google cloud platform 같은 virtual machine 을 사용하는 경우에는 어떻게 확인할 수 있는가?&lt;/p&gt;
 &lt;p&gt;처음에는 그냥 지나쳤으나, 나중에 봤을 때 공식홈페이지에 써있던 내용인 것을 알앗다.
 참고로 필자는 이부분에서 굉장히 해맸다.&lt;/p&gt;
@@ -32,147 +127,8 @@ gatsby develop
 &lt;p&gt;—host=0.0.0.0 명령을 통해 모든 ip에서 접근 가능하도록 하는 것이다.
 지금 사용하고 있는 컴퓨터(모든 ip) =&gt; VM =&gt; VM의 localhost 로 접속하는 격이다.&lt;/p&gt;
 &lt;p&gt;나는 goormIDE 와 google cloud platform 에서 해보았는데 다른 곳도 비슷한 원리로 작동될 것이다.&lt;/p&gt;
-&lt;p&gt;goormIDE 같은 경우에는 &lt;/p&gt;
-&lt;p&gt;google cloud platform 같은 경우에는&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/new-beginnings/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/new-beginnings/</guid><pubDate>Thu, 28 May 2015 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean. A small river named
-Duden flows by their place and supplies it with the necessary regelialia.&lt;/p&gt;
-&lt;h2&gt;On deer horse aboard tritely yikes and much&lt;/h2&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;This however showed weasel&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Well uncritical so misled&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;this is very interesting&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Goodness much until that fluid owl&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;When she reached the first hills of the &lt;strong&gt;Italic Mountains&lt;/strong&gt;, she had a last
-view back on the skyline of her hometown &lt;em&gt;Bookmarksgrove&lt;/em&gt;, the headline of
-&lt;a href=&quot;http://google.com&quot;&gt;Alphabet Village&lt;/a&gt; and the subline of her own road, the Line
-Lane. Pityful a rhetoric question ran over her cheek, then she continued her
-way. On her way she met a copy.&lt;/p&gt;
-&lt;h3&gt;Overlaid the jeepers uselessly much excluding&lt;/h3&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with
-&lt;a href=&quot;http://google.com&quot;&gt;Longe and Parole&lt;/a&gt; and dragged her into their agency, where
-they abused her for their projects again and again. And if she hasn’t been
-rewritten, then they are still using her.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts. Separated they live in Bookmarksgrove
-right at the coast of the Semantics, a large language ocean.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;It is a paradisematic country, in which roasted parts of sentences fly into your
-mouth. Even the all-powerful Pointing has no control about the blind texts it is
-an almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;
-&lt;h3&gt;According a funnily until pre-set or arrogant well cheerful&lt;/h3&gt;
-&lt;p&gt;The Big Oxmox advised her not to do so, because there were thousands of bad
-Commas, wild Question Marks and devious Semikoli, but the Little Blind Text
-didn’t listen. She packed her seven versalia, put her initial into the belt and
-made herself on the way.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;So baboon this&lt;/li&gt;
-&lt;li&gt;Mounted militant weasel gregariously admonishingly straightly hey&lt;/li&gt;
-&lt;li&gt;Dear foresaw hungry and much some overhung&lt;/li&gt;
-&lt;li&gt;Rash opossum less because less some amid besides yikes jeepers frenetic
-impassive fruitlessly shut&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;When she reached the first hills of the Italic Mountains, she had a last view
-back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet
-Village and the subline of her own road, the Line Lane. Pityful a rhetoric
-question ran over her cheek, then she continued her way. On her way she met a
-copy.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and
-return to its own, safe country.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;But nothing the copy said could convince her and so it didn’t take long until a
-few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
-and dragged her into their agency, where they abused her for their projects
-again and again. And if she hasn’t been rewritten, then they are still using
-her. Far far away, behind the word mountains, far from the countries Vokalia and
-Consonantia, there live the blind texts.&lt;/p&gt;
-&lt;h4&gt;Silent delightfully including because before one up barring chameleon&lt;/h4&gt;
-&lt;p&gt;Separated they live in Bookmarksgrove right at the coast of the Semantics, a
-large language ocean. A small river named Duden flows by their place and
-supplies it with the necessary regelialia. It is a paradisematic country, in
-which roasted parts of sentences fly into your mouth.&lt;/p&gt;
-&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an
-almost unorthographic life One day however a small line of blind text by the
-name of Lorem Ipsum decided to leave for the far World of Grammar. The Big Oxmox
-advised her not to do so, because there were thousands of bad Commas, wild
-Question Marks and devious Semikoli, but the Little Blind Text didn’t listen.&lt;/p&gt;
-&lt;h5&gt;Wherever far wow thus a squirrel raccoon jeez jaguar this from along&lt;/h5&gt;
-&lt;p&gt;She packed her seven versalia, put her initial into the belt and made herself on
-the way. When she reached the first hills of the Italic Mountains, she had a
-last view back on the skyline of her hometown Bookmarksgrove, the headline of
-Alphabet Village and the subline of her own road, the Line Lane. Pityful a
-rhetoric question ran over her cheek, then she continued her way. On her way she
-met a copy.&lt;/p&gt;
-&lt;h6&gt;Slapped cozy a that lightheartedly and far&lt;/h6&gt;
-&lt;p&gt;The copy warned the Little Blind Text, that where it came from it would have
-been rewritten a thousand times and everything that was left from its origin
-would be the word “and” and the Little Blind Text should turn around and return
-to its own, safe country. But nothing the copy said could convince her and so it
-didn’t take long until a few insidious Copy Writers ambushed her, made her drunk
-with Longe and Parole and dragged her into their agency, where they abused her
-for their projects again and again.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[My Second Post!]]></title><description><![CDATA[Wow! I love blogging so much already. Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/my-second-post/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/my-second-post/</guid><pubDate>Wed, 06 May 2015 23:46:37 GMT</pubDate><content:encoded>&lt;p&gt;Wow! I love blogging so much already.&lt;/p&gt;
-&lt;p&gt;Did you know that “despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich.”?
-(&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;Wikipedia Link&lt;/a&gt;)&lt;/p&gt;
-&lt;p&gt;Yeah, I didn’t either.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new fake blog! How exciting! I’m sure I’ll write a lot more interesting things in the future. Oh, and here’s a…]]></description><link>https://gatsby-starter-blog-demo.netlify.com/hello-world/</link><guid isPermaLink="false">https://gatsby-starter-blog-demo.netlify.com/hello-world/</guid><pubDate>Fri, 01 May 2015 22:12:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new fake blog! How exciting!&lt;/p&gt;
-&lt;p&gt;I’m sure I’ll write a lot more interesting things in the future.&lt;/p&gt;
-&lt;p&gt;Oh, and here’s a great quote from this Wikipedia on
-&lt;a href=&quot;http://en.wikipedia.org/wiki/Salted_duck_egg&quot;&gt;salted duck eggs&lt;/a&gt;.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;A salted duck egg is a Chinese preserved food product made by soaking duck
-eggs in brine, or packing each egg in damp, salted charcoal. In Asian
-supermarkets, these eggs are sometimes sold covered in a thick layer of salted
-charcoal paste. The eggs may also be sold with the salted paste removed,
-wrapped in plastic, and vacuum packed. From the salt curing process, the
-salted duck eggs have a briny aroma, a gelatin-like egg white and a
-firm-textured, round yolk that is bright orange-red in color.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMB/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAEEBf/aAAwDAQACEAMQAAABgik0dXC//8QAGRABAAMBAQAAAAAAAAAAAAAAAQACEhEy/9oACAEBAAEFAkqW2DlnRj73yf/EABcRAQADAAAAAAAAAAAAAAAAAAAREkH/2gAIAQMBAT8B1WX/xAAWEQEBAQAAAAAAAAAAAAAAAAAAEQL/2gAIAQIBAT8Bi6f/xAAbEAABBAMAAAAAAAAAAAAAAAAAAQIRISIxMv/aAAgBAQAGPwK9GNocyS8hCj//xAAbEAADAQADAQAAAAAAAAAAAAABESEAMUGBof/aAAgBAQABPyGxNMfrLHmCDZmAzzvJJDjEQCHv/9oADAMBAAIAAwAAABDIL//EABYRAQEBAAAAAAAAAAAAAAAAAAERAP/aAAgBAwEBPxARhylZv//EABgRAAIDAAAAAAAAAAAAAAAAAAABESFR/9oACAECAQE/EFoktI//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAxIWFBcYHh/9oACAEBAAE/EEbMLQ0fMHDVaPIXyI4pk4JUnWacNCtO8ojDE9TGIYES7/Jn/9k=&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;Chinese Salty Egg&quot;
-        title=&quot;Chinese Salty Egg&quot;
-        src=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg&quot;
-        srcset=&quot;/static/8058f3f26913fea3b6a89a73344fe94a/8ee9c/salty_egg.jpg 148w,
-/static/8058f3f26913fea3b6a89a73344fe94a/ebbe7/salty_egg.jpg 295w,
-/static/8058f3f26913fea3b6a89a73344fe94a/c739e/salty_egg.jpg 590w,
-/static/8058f3f26913fea3b6a89a73344fe94a/5413e/salty_egg.jpg 885w,
-/static/8058f3f26913fea3b6a89a73344fe94a/4efde/salty_egg.jpg 1180w,
-/static/8058f3f26913fea3b6a89a73344fe94a/2b40c/salty_egg.jpg 2048w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;goormIDE 같은 경우에는 상단 메뉴에 프로젝트 -&gt; 실행 URL과 포트를 눌러보면 다음과 같은 창이 뜨는데 도메인 주소를 등록하고 포트는 8000으로 설정한 후에 등록 후 적용을 하면 해당 주소로 접속시에 들어갈 수 있다.
+처음에는 헷갈려서 도메인주소:8000 식으로 접속했으나 이미 포트 설정까지 완료된 주소이므로 그냥 주소만 입력해서 들어가면 된다.&lt;/p&gt;
+&lt;p&gt;google cloud platform 같은 경우에는 VM의 외부 ip주소가 있을 것이다.
+외부 ip주소:8000 으로 접속하면 되는데 먼저 방화벽 설정을 해주어야한다.&lt;/p&gt;
+&lt;p&gt;이제 &lt;a href=&quot;http://localhost:8000&quot;&gt;http://localhost:8000&lt;/a&gt; 에 올라가 있는 블로그를 확인할 수 있을 것이다.&lt;/p&gt;</content:encoded></item></channel></rss>
