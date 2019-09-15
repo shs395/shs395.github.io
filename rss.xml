@@ -1,27 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[IT Blog]]></title><description><![CDATA[IT Blog]]></description><link>https://shs395.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 14 Sep 2019 11:10:25 GMT</lastBuildDate><item><title><![CDATA[190914_TIL]]></title><description><![CDATA[오늘 한 일 오늘 배운 것 1.scripts 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치매예방노트]]></title><description><![CDATA[기록하는 습관을 기르자]]></description><link>https://shs395.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 15 Sep 2019 02:17:47 GMT</lastBuildDate><item><title><![CDATA[190914_TIL]]></title><link>https://shs395.github.io//posts/til/2019-09-14</link><guid isPermaLink="false">https://shs395.github.io//posts/til/2019-09-14</guid><pubDate>Sat, 14 Sep 2019 11:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%ED%95%9C-%EC%9D%BC&quot; aria-label=&quot;오늘 한 일 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 한 일&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;백준 알고리즘  &lt;/li&gt;
+&lt;li&gt;블로그 포스트 2개 작성 (gatsby 관련)  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;오늘-배운-것&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%B0%B0%EC%9A%B4-%EA%B2%83&quot; aria-label=&quot;오늘 배운 것 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 배운 것&lt;/h3&gt;
+&lt;p&gt;1.scripts (npm run build)
 2.zulu time
-3.vagrant]]></description><link>https://shs395.github.io/til/2019-09-14-til/</link><guid isPermaLink="false">https://shs395.github.io/til/2019-09-14-til/</guid><pubDate>Sat, 14 Sep 2019 11:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;오늘 한 일&lt;/h3&gt;
-&lt;h3&gt;오늘 배운 것&lt;/h3&gt;
-&lt;p&gt;1.scripts
-2.zulu time
-3.vagrant&lt;/p&gt;</content:encoded></item><item><title><![CDATA[유용한 웹사이트]]></title><description><![CDATA[website 점수 매겨주는 곳 https://website.grader.com/]]></description><link>https://shs395.github.io/useful-website/</link><guid isPermaLink="false">https://shs395.github.io/useful-website/</guid><pubDate>Sat, 14 Sep 2019 11:00:00 GMT</pubDate><content:encoded>&lt;h4&gt;website 점수 매겨주는 곳&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://website.grader.com/&quot;&gt;https://website.grader.com/&lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기]]></title><description><![CDATA[gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost…]]></description><link>https://shs395.github.io/gatsby-blog/vm-localhost/</link><guid isPermaLink="false">https://shs395.github.io/gatsby-blog/vm-localhost/</guid><pubDate>Sat, 14 Sep 2019 09:30:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost에 접속을 해서 내 블로그가 잘 만들어지고 있는지 확인을 못한다는 사실이었다. &lt;del&gt;그래서 배포를 통한 확인만이 답인가?&lt;/del&gt; 라는 바보같은 생각을 할 때쯤 구글링으로 답을 발견했다.&lt;br&gt;
-참고 : &lt;a href=&quot;https://geeklab.tistory.com/61?category=251056&quot;&gt;jekyll를 이용한 GitHub Pages에 블로그 만들기 #1&lt;/a&gt;&lt;/p&gt;
+3.vagrant
+4.&lt;/p&gt;
+&lt;h3 id=&quot;내일-할-일&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%ED%95%A0-%EC%9D%BC&quot; aria-label=&quot;내일 할 일 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 할 일&lt;/h3&gt;
+&lt;p&gt;sitemap /구글에 검색되게 / 블로그 정리&lt;/p&gt;</content:encoded></item><item><title><![CDATA[VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기]]></title><description><![CDATA[Gatsby 사용시 VM localhost 개발환경으로 접속하기]]></description><link>https://shs395.github.io//posts/gatsby-blog/vm-localhost</link><guid isPermaLink="false">https://shs395.github.io//posts/gatsby-blog/vm-localhost</guid><pubDate>Sat, 14 Sep 2019 09:30:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost에 접속을 해서 내 블로그가 잘 만들어지고 있는지 확인을 못한다는 사실이었다. &lt;del&gt;그래서 배포를 통한 확인만이 답인가?&lt;/del&gt; 라는 바보같은 생각을 할 때쯤 구글링으로 답을 발견했다.&lt;br&gt;
+참고 : &lt;a href=&quot;https://geeklab.tistory.com/61?category=251056&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;jekyll를 이용한 GitHub Pages에 블로그 만들기 #1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;그 후에야 아래와 같이 공식홈페이지에 써있던 내용인 것을 알았다.&lt;/p&gt;
 &lt;p&gt;If you are using VM setup like vagrant and/or would like to listen on your local IP address, run gatsby develop — —host=0.0.0.0. Now, the development server listens on both ‘localhost’ and your local IP.  &lt;/p&gt;
 &lt;p&gt;—host=0.0.0.0() 명령을 통해 development server를 모든 ip에서 접근 가능하도록 하는 것이다.
 그러니까 VM 내의 development server 가 고립된 집이고 내부에서밖에 집을 이용할 수 없었다면, 위 명령어를 통해 0.0.0.0 ~ 255.255.255.255 에서 올 수 있는 길을 열어 주는 것이다. 그리고 포트(8000)는 문으로 생각하면 좋다.
 지금 사용하고 있는 컴퓨터(모든 ip) =&gt; VM(8000번 문) =&gt; VM의 localhost 로 접속하는 격이다.&lt;/p&gt;
-&lt;h3&gt;그러므로 우선적으로 development server를 열어주자&lt;/h3&gt;
+&lt;h3 id=&quot;그러므로-우선적으로-development-server를-열어주자&quot;&gt;&lt;a href=&quot;#%EA%B7%B8%EB%9F%AC%EB%AF%80%EB%A1%9C-%EC%9A%B0%EC%84%A0%EC%A0%81%EC%9C%BC%EB%A1%9C-development-server%EB%A5%BC-%EC%97%B4%EC%96%B4%EC%A3%BC%EC%9E%90&quot; aria-label=&quot;그러므로 우선적으로 development server를 열어주자 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;그러므로 우선적으로 development server를 열어주자&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;gatsby develop -H 0.0.0.0
 혹은
 gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;구름IDE (goormIDE)에서 들어가보기&lt;/h3&gt;
+&lt;h3 id=&quot;구름ide-goormide에서-들어가보기&quot;&gt;&lt;a href=&quot;#%EA%B5%AC%EB%A6%84ide-goormide%EC%97%90%EC%84%9C-%EB%93%A4%EC%96%B4%EA%B0%80%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;구름ide goormide에서 들어가보기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;구름IDE (goormIDE)에서 들어가보기&lt;/h3&gt;
 &lt;p&gt;구름IDE는 자체적으로 이 부분을 만들어주었다.&lt;br&gt;
 상단 메뉴 프로젝트 -&gt; 실행 URL과 포트를 눌러보면 다음과 같은 창이 뜬다.  &lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 803px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -34,18 +38,29 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     class=&quot;gatsby-resp-image-background-image&quot;
     style=&quot;padding-bottom: 30.884184308841846%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAGCAYAAADDl76dAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAArklEQVQY053QTQqDMBQE4NzCFFeisebPxBqjhbrQWqj3P9DUZCF0I+LigwQyYd4j/dBjmie0bQshBJRSkZQy3itegXN+SsiQENC1hrEWxtSw1sA24Wzio4IVYIwdyvMcWZbFf4jrOoSWsYngf0JDIY+FVq5zO/IaR6zrF2maglIKejsvoUnMze8Zy2eB7z2I1nofrXk0l9TbqgLntoZSSZT3Mo5otv1dNTwHeO/xA3n+tDJ1RGxpAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;실행 URL과 포트&quot;
-        title=&quot;실행 URL과 포트&quot;
-        src=&quot;/static/06441dc6d14efc27ce419ee95653a797/b9e4f/url-port.png&quot;
-        srcset=&quot;/static/06441dc6d14efc27ce419ee95653a797/cf440/url-port.png 148w,
-/static/06441dc6d14efc27ce419ee95653a797/d2d38/url-port.png 295w,
-/static/06441dc6d14efc27ce419ee95653a797/b9e4f/url-port.png 590w,
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/06441dc6d14efc27ce419ee95653a797/01472/url-port.webp 240w,
+/static/06441dc6d14efc27ce419ee95653a797/222bd/url-port.webp 480w,
+/static/06441dc6d14efc27ce419ee95653a797/2d91e/url-port.webp 803w&quot;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/06441dc6d14efc27ce419ee95653a797/0783d/url-port.png 240w,
+/static/06441dc6d14efc27ce419ee95653a797/782f4/url-port.png 480w,
 /static/06441dc6d14efc27ce419ee95653a797/d5c82/url-port.png 803w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
+          sizes=&quot;(max-width: 803px) 100vw, 803px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/06441dc6d14efc27ce419ee95653a797/d5c82/url-port.png&quot;
+          alt=&quot;실행 URL과 포트&quot;
+          title=&quot;실행 URL과 포트&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;  &lt;/p&gt;
 &lt;ol&gt;
@@ -55,8 +70,8 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;li&gt;사진에는 보이지않지만 아래에 적용 클릭  &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;후에 해당 주소로 접속시에 들어갈 수 있다.&lt;br&gt;
-처음에는 헷갈려서 &lt;a href=&quot;https://%EC%84%A4%EC%A0%95%ED%95%9C%EC%9D%B4%EB%A6%84.run.goorm.io:8000&quot;&gt;https://설정한이름.run.goorm.io:8000&lt;/a&gt; 으로 접속했으나 이미 포트 설정까지 완료된 주소이므로 그냥 주소(&lt;a href=&quot;https://%EC%84%A4%EC%A0%95%ED%95%9C%EC%9D%B4%EB%A6%84.run.goorm.io&quot;&gt;https://설정한이름.run.goorm.io&lt;/a&gt;)만 입력해서 들어가면 된다.&lt;/p&gt;
-&lt;h3&gt;GCP (Google Cloud Platform)에서 들어가보기&lt;/h3&gt;
+처음에는 헷갈려서 &lt;a href=&quot;https://%EC%84%A4%EC%A0%95%ED%95%9C%EC%9D%B4%EB%A6%84.run.goorm.io:8000&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://설정한이름.run.goorm.io:8000&lt;/a&gt; 으로 접속했으나 이미 포트 설정까지 완료된 주소이므로 그냥 주소(&lt;a href=&quot;https://%EC%84%A4%EC%A0%95%ED%95%9C%EC%9D%B4%EB%A6%84.run.goorm.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://설정한이름.run.goorm.io&lt;/a&gt;)만 입력해서 들어가면 된다.&lt;/p&gt;
+&lt;h3 id=&quot;gcp-google-cloud-platform에서-들어가보기&quot;&gt;&lt;a href=&quot;#gcp-google-cloud-platform%EC%97%90%EC%84%9C-%EB%93%A4%EC%96%B4%EA%B0%80%EB%B3%B4%EA%B8%B0&quot; aria-label=&quot;gcp google cloud platform에서 들어가보기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;GCP (Google Cloud Platform)에서 들어가보기&lt;/h3&gt;
 &lt;p&gt;google cloud platform 같은 경우에는 먼저 gcp 자체의 방화벽 설정을 해주어야한다.  &lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -73,17 +88,27 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     class=&quot;gatsby-resp-image-background-image&quot;
     style=&quot;padding-bottom: 106.7632850241546%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAVCAYAAABG1c6oAAAACXBIWXMAAA7DAAAOwwHHb6hkAAADWklEQVQ4y3VTS08bVxidfaqo+66rLkILEoI8pP6cVqrSdFspCeVVpEpV25BsuqQrSIJxMOCWJoEUNkFWoVIBVQkWtgc/Z8aD3/Pw+OSea19rbKVXOvqu7/3u+c75vrE2ej+DzxcuMDqVwc15HZMzArM6JkQcn9ZxY07HLXF+vXfG/Jvyd0b8zmBsKo2Ru2lc60G7cruAke8MfCDi6IyBWz9YmPjexMf3DIzNmvh02sTkgoXxeROfzZj48E4Rn9wX+7kKRmYr+OhbG1e/KePKHUtCe7Rt4NHzMmT808LDP0pYFHjYw4PfS/gl3o0E836M5fDFT3v48uc9fPVgH7cX9/H1YjdqgIdmOQvARdAw0V2d/0HQvQ5qWPntV6w/WcL60yVEHy/hZTyCV9vPoDmuj8xFHrWGi4JhwxNv3LaA34PYe+1eDLqUtXoTT1bX8DQSxaoA99FnMaxvbEGrNAIUL4FyLUAyY+DoOIl//0vjzXkBJ290nL69wIkA79I5G6msjZJVQyy2jq2tLcTjcQnuNzc3odn1ALrhw6y28c9JCkndQrHsomR7KNoucmZLoImC5YgiRbxNm8gbVUSja4I0ho2NjQFojuOi3nTQaPlwvA5abgBP2u1Iy17PMs/8oNvJfL6AxysrkjAajfYRiUSg1Wo1WKaJVquJ96/hwQDFYhHLy8uifxFJstaLkrBQKCAIAjSbTdTrdbAAo+t6XbpOpw+/3ZZnzHn9+gAv/krgIPE3Dg8Psbu7i52dHWjHx8dwHAeGYUjk83mk02lcXl72CdViHotXq1VZ1LJM+YZnamm8UArURXgfJlV5fMOClmXBtm34vt9/ox0dHcnKtH52doZcLodSqSQjz8NErVZLxkqlInPK5bIkDxfVlA0FVuNqi361ez0bVkhCtsYUwwwTEtrp6akYgCsrZrNZ6Lou98lkUloaVsiiJCQZh9NoNAYJPc/rK2AyVYUVh/uo8mhVFRteUiFJaYE9pEpOjt8a4/n5+YB1glPmUKiS5GpAbJ9Gu2pChHpEEvZT3YeVsm+0zYIk5aT7hIlEQirkZSqV6veSScNLTZmq+FWob3XAMi9Vw1mZTWbk7+EJU7XKpSKllC0g6EhTn4iyO/AvDpGFe8ii7DGnTEEErdPpO2zY9X+EfCC7AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;방화벽 규칙&quot;
-        title=&quot;방화벽 규칙&quot;
-        src=&quot;/static/2d56ed31d2b61d7ff254bc4b91568996/07a90/firewall.png&quot;
-        srcset=&quot;/static/2d56ed31d2b61d7ff254bc4b91568996/cf440/firewall.png 148w,
-/static/2d56ed31d2b61d7ff254bc4b91568996/d2d38/firewall.png 295w,
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/2d56ed31d2b61d7ff254bc4b91568996/01472/firewall.webp 240w,
+/static/2d56ed31d2b61d7ff254bc4b91568996/1722c/firewall.webp 414w&quot;
+          sizes=&quot;(max-width: 414px) 100vw, 414px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/2d56ed31d2b61d7ff254bc4b91568996/0783d/firewall.png 240w,
 /static/2d56ed31d2b61d7ff254bc4b91568996/07a90/firewall.png 414w&quot;
-        sizes=&quot;(max-width: 414px) 100vw, 414px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
+          sizes=&quot;(max-width: 414px) 100vw, 414px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/2d56ed31d2b61d7ff254bc4b91568996/07a90/firewall.png&quot;
+          alt=&quot;방화벽 규칙&quot;
+          title=&quot;방화벽 규칙&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;  &lt;/p&gt;
 &lt;p&gt;VPC 네트워크 -&gt; 방화벽 규칙에 들어가준다.&lt;/p&gt;
@@ -102,17 +127,27 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     class=&quot;gatsby-resp-image-background-image&quot;
     style=&quot;padding-bottom: 157.02127659574467%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAfCAYAAADnTu3OAAAACXBIWXMAAA7DAAAOwwHHb6hkAAACeklEQVRIx61Vy3LaQBDUf+Z7csiP5ANyzT23pCrliqtswBZg0EpCoPdrJXWmFxbjVHAQZKuGBSG1ZqZ7ep00TTGZThBFEdq2xTAM6Pt+dHRdZ551qqrC0/MzongHrTsDqrU2+5goy9I8J4Alttst8rw4voVv3O+D2cHvhxjOhF0OS3ZdF0opAY6QZbmUv0WSxEjSCl7YIIgaqUAiabHZNVCbGlmh5fHXl9pw+r5DEKhjVszyz9B/uXYuJMMMQRhIdjsURXG2pEvDUZscD49TKM8zpOCkH9cshx8kpRa2uW7OMAi38IMAge8LEemRseHKTJ206DGZPcFTa3PBknMKPCpDrVs0dW3o/x/LybIMy+XSjF4u3+M4BrVZlCL0w0hdEk3TmOqcrtPwfSXC9rAR+dh+7nb7UeQ4XRK1VGl0yFkOw1AISeRCf3vJlMtsNjPjxmzHmoI1k6M56FaDfUzTZN8HSfsm+yKY686NQXhiEN2VgDYcNnOxWOLlZSX74gjYjTAEe78BzNLMyIRyYR9PXfuq0aPB0rHZ1OpA/akc/pWdvYdqMaRwSnzRHUuv60r+qN80+tIg2L5kcehf9/e4u/uJqcgnFZLsTVfpMBFzUP4Gs8kj1usV3Pkc69VKTDc8SmFUD3kuVE2PaBuDRkGhz4VtO5tj2TaARCbL7CFXnucGcOzEmFm2HpjKLNMQlBDEOPXC12P1/YxNydZImR1NwpOzRSnflM5MeXBREpSVdZR3S6ax6m5AK1ZVHrTEBwnAICB/E5RtuKCHMG5dlBqbuENe3WZhjqtqfP0e48ckN2Uzi1tOP+fLtwgfPj7g0+cXIUWMVmzsFHDs+g0RG35qC/6xkQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;방화벽 규칙 만들기&quot;
-        title=&quot;방화벽 규칙 만들기&quot;
-        src=&quot;/static/3a7c5e1e1db854b39e5d4d969186fa68/1ee5b/make-firewall.png&quot;
-        srcset=&quot;/static/3a7c5e1e1db854b39e5d4d969186fa68/cf440/make-firewall.png 148w,
-/static/3a7c5e1e1db854b39e5d4d969186fa68/d2d38/make-firewall.png 295w,
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/3a7c5e1e1db854b39e5d4d969186fa68/01472/make-firewall.webp 240w,
+/static/3a7c5e1e1db854b39e5d4d969186fa68/8cbc0/make-firewall.webp 470w&quot;
+          sizes=&quot;(max-width: 470px) 100vw, 470px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/3a7c5e1e1db854b39e5d4d969186fa68/0783d/make-firewall.png 240w,
 /static/3a7c5e1e1db854b39e5d4d969186fa68/1ee5b/make-firewall.png 470w&quot;
-        sizes=&quot;(max-width: 470px) 100vw, 470px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
+          sizes=&quot;(max-width: 470px) 100vw, 470px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/3a7c5e1e1db854b39e5d4d969186fa68/1ee5b/make-firewall.png&quot;
+          alt=&quot;방화벽 규칙 만들기&quot;
+          title=&quot;방화벽 규칙 만들기&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;  &lt;/p&gt;
 &lt;p&gt;방화벽 규칙 만들기 클릭 후&lt;br&gt;
@@ -123,7 +158,7 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 만들기  &lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 960px;&quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -136,52 +171,64 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
     class=&quot;gatsby-resp-image-background-image&quot;
     style=&quot;padding-bottom: 14.52205882352941%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAYAAACTWi8uAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAhElEQVQI102OCwrDMAxDe/+Tji2l8Ro3/iTV4rCWGoSwEfJb3p8VKa3YtgwRQSkFmQjNHVwbaDfwMVQde1GIOr5sqGJwN5gZVPX25bUKEikyj+Dh6L2jtTbCjvM8p54z98f9ykRh+EKZBt026P5fzOd3VZnEUc7MN3145EK11glwEUbhD/3f6oocizUWAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
-  &lt;img
-        class=&quot;gatsby-resp-image-image&quot;
-        alt=&quot;외부 IP주소&quot;
-        title=&quot;외부 IP주소&quot;
-        src=&quot;/static/50823ef5b55319472cbb1e06937b6b4f/b9e4f/gcp-ip.png&quot;
-        srcset=&quot;/static/50823ef5b55319472cbb1e06937b6b4f/cf440/gcp-ip.png 148w,
-/static/50823ef5b55319472cbb1e06937b6b4f/d2d38/gcp-ip.png 295w,
-/static/50823ef5b55319472cbb1e06937b6b4f/b9e4f/gcp-ip.png 590w,
-/static/50823ef5b55319472cbb1e06937b6b4f/f9b6a/gcp-ip.png 885w,
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/50823ef5b55319472cbb1e06937b6b4f/01472/gcp-ip.webp 240w,
+/static/50823ef5b55319472cbb1e06937b6b4f/222bd/gcp-ip.webp 480w,
+/static/50823ef5b55319472cbb1e06937b6b4f/620b9/gcp-ip.webp 960w,
+/static/50823ef5b55319472cbb1e06937b6b4f/f1523/gcp-ip.webp 1088w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/50823ef5b55319472cbb1e06937b6b4f/0783d/gcp-ip.png 240w,
+/static/50823ef5b55319472cbb1e06937b6b4f/782f4/gcp-ip.png 480w,
+/static/50823ef5b55319472cbb1e06937b6b4f/f570d/gcp-ip.png 960w,
 /static/50823ef5b55319472cbb1e06937b6b4f/6feaa/gcp-ip.png 1088w&quot;
-        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
-        loading=&quot;lazy&quot;
-      /&gt;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/50823ef5b55319472cbb1e06937b6b4f/f570d/gcp-ip.png&quot;
+          alt=&quot;외부 IP주소&quot;
+          title=&quot;외부 IP주소&quot;
+          loading=&quot;lazy&quot;
+        /&gt;
+      &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;  &lt;/p&gt;
 &lt;p&gt;google cloud platform 같은 경우에는 다음과 같이 VM의 외부 ip주소가 있을 것이다.&lt;br&gt;
-&lt;a href=&quot;http://%EC%99%B8%EB%B6%80IP%EC%A3%BC%EC%86%8C:8000&quot;&gt;http://외부IP주소:8000&lt;/a&gt; 으로 접속하면 된다.&lt;br&gt;
+&lt;a href=&quot;http://%EC%99%B8%EB%B6%80IP%EC%A3%BC%EC%86%8C:8000&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;http://외부IP주소:8000&lt;/a&gt; 으로 접속하면 된다.&lt;br&gt;
 &lt;u&gt;(&lt;strong&gt;주의할 점: https 가 아닌 http 로 접속하자.&lt;/strong&gt;)&lt;/u&gt;&lt;/p&gt;
-&lt;h3&gt;마무리&lt;/h3&gt;
-&lt;p&gt;이제 &lt;a href=&quot;https://%EC%84%A4%EC%A0%95%ED%95%9C%EC%9D%B4%EB%A6%84.run.goorm.io&quot;&gt;https://설정한이름.run.goorm.io&lt;/a&gt; 혹은 &lt;a href=&quot;http://%EC%99%B8%EB%B6%80IP%EC%A3%BC%EC%86%8C:8000&quot;&gt;http://외부IP주소:8000&lt;/a&gt; 에 들어가서 VM의 &lt;a href=&quot;http://localhost:8000&quot;&gt;http://localhost:8000&lt;/a&gt; 에 올라가 있는 블로그를 확인할 수 있을 것이다.&lt;/p&gt;
-&lt;p&gt;구름IDE 와 google cloud platform 에서 해보았는데 aws등과 같은 다른 곳도 비슷한 원리로 작동될 것이다. 또한 gastby가 아닌 jekyll이나 다른 프레임워크에서도 비슷한 원리로 작동될 듯 싶다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[빠르게 Gatsby + Github pages 로 블로그 만들기]]></title><description><![CDATA[이 글을 보면 좋은 사람들 영어로 된 공식홈페이지를 읽기 귀찮은 분 빠르고 간결하게 gatsby 블로그를 만들어서 github pages에 배포하고 싶으신 분 개발환경 구름IDE 무료 버전 (Ubuntu 14.04 LTS…]]></description><link>https://shs395.github.io/gatsby-blog/</link><guid isPermaLink="false">https://shs395.github.io/gatsby-blog/</guid><pubDate>Sat, 14 Sep 2019 07:00:00 GMT</pubDate><content:encoded>&lt;h3&gt;이 글을 보면 좋은 사람들&lt;/h3&gt;
+&lt;h3 id=&quot;마무리&quot;&gt;&lt;a href=&quot;#%EB%A7%88%EB%AC%B4%EB%A6%AC&quot; aria-label=&quot;마무리 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;마무리&lt;/h3&gt;
+&lt;p&gt;이제 &lt;a href=&quot;https://%EC%84%A4%EC%A0%95%ED%95%9C%EC%9D%B4%EB%A6%84.run.goorm.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://설정한이름.run.goorm.io&lt;/a&gt; 혹은 &lt;a href=&quot;http://%EC%99%B8%EB%B6%80IP%EC%A3%BC%EC%86%8C:8000&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;http://외부IP주소:8000&lt;/a&gt; 에 들어가서 VM의 &lt;a href=&quot;http://localhost:8000&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;http://localhost:8000&lt;/a&gt; 에 올라가 있는 블로그를 확인할 수 있을 것이다.&lt;/p&gt;
+&lt;p&gt;구름IDE 와 google cloud platform 에서 해보았는데 aws등과 같은 다른 곳도 비슷한 원리로 작동될 것이다. 또한 gastby가 아닌 jekyll이나 다른 프레임워크에서도 비슷한 원리로 작동될 듯 싶다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[빠르게 Gatsby + Github pages 로 블로그 만들기]]></title><description><![CDATA[Gatsby 와 Github pages 로 빠르게 블로그를 만들고 배포해보자]]></description><link>https://shs395.github.io//posts/gatsby-blog</link><guid isPermaLink="false">https://shs395.github.io//posts/gatsby-blog</guid><pubDate>Sat, 14 Sep 2019 07:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;이-글을-보면-좋은-사람들&quot;&gt;&lt;a href=&quot;#%EC%9D%B4-%EA%B8%80%EC%9D%84-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%93%A4&quot; aria-label=&quot;이 글을 보면 좋은 사람들 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;이 글을 보면 좋은 사람들&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;영어로 된 공식홈페이지를 읽기 귀찮은 분&lt;/li&gt;
 &lt;li&gt;빠르고 간결하게 gatsby 블로그를 만들어서 github pages에 배포하고 싶으신 분&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;개발환경&lt;/h3&gt;
+&lt;h3 id=&quot;개발환경&quot;&gt;&lt;a href=&quot;#%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD&quot; aria-label=&quot;개발환경 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;개발환경&lt;/h3&gt;
 &lt;p&gt;구름IDE 무료 버전 (Ubuntu 14.04 LTS) - 군대라는 장소적 제약 때문에..&lt;/p&gt;
-&lt;h3&gt;gatsby 선정이유&lt;/h3&gt;
+&lt;h3 id=&quot;gatsby-선정이유&quot;&gt;&lt;a href=&quot;#gatsby-%EC%84%A0%EC%A0%95%EC%9D%B4%EC%9C%A0&quot; aria-label=&quot;gatsby 선정이유 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;gatsby 선정이유&lt;/h3&gt;
 &lt;p&gt;&lt;del&gt;과거에 jekyll 을 이용한 github 블로그를 만들다가 ruby 가 너무 익숙치 않아서 포기하고(수정을 못하겠다..) 인터넷 검색 중에 gatsby 를 알게 되었다. gatsby는 React(요즘 핫해서,,)로 이루어져 있고 비교적 최신 것이며 star 도 많이 받았기 때문에 선택했다. 게다가 jekyll 블로그 관련 포스팅이 gatsby 관련 포스팅에 비해 2배 많았던 것도 한몫했다.&lt;/del&gt;  &lt;/p&gt;
 &lt;p&gt;&lt;u&gt;&lt;strong&gt;다른 프레임워크들보다 모든 부분에서 좋댄다&lt;/strong&gt;&lt;/u&gt;&lt;br&gt;
-(참고 :&lt;a href=&quot;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&quot;&gt;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&lt;/a&gt;)  &lt;/p&gt;
+(참고 :&lt;a href=&quot;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.gatsbyjs.org/features/jamstack/gatsby-vs-jekyll-vs-hugo/&lt;/a&gt;)  &lt;/p&gt;
 &lt;p&gt;다른 언어가 익숙하다면 jekyll,hugo,hexo 등의 다른 프레임워크를 찾아보는 것도 좋다. &lt;/p&gt;
-&lt;h3&gt;시작하기&lt;/h3&gt;
-&lt;h4&gt;설치되어 있어햐 하는 것&lt;/h4&gt;
+&lt;h3 id=&quot;시작하기&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0&quot; aria-label=&quot;시작하기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시작하기&lt;/h3&gt;
+&lt;h4 id=&quot;설치되어-있어햐-하는-것&quot;&gt;&lt;a href=&quot;#%EC%84%A4%EC%B9%98%EB%90%98%EC%96%B4-%EC%9E%88%EC%96%B4%ED%96%90-%ED%95%98%EB%8A%94-%EA%B2%83&quot; aria-label=&quot;설치되어 있어햐 하는 것 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;설치되어 있어햐 하는 것&lt;/h4&gt;
 &lt;p&gt;node / npm / git / &lt;del&gt;homebrew&lt;/del&gt; (설치 안해도 무관)&lt;/p&gt;
-&lt;h4&gt;gatsby 설치&lt;/h4&gt;
+&lt;h4 id=&quot;gatsby-설치&quot;&gt;&lt;a href=&quot;#gatsby-%EC%84%A4%EC%B9%98&quot; aria-label=&quot;gatsby 설치 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;gatsby 설치&lt;/h4&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; -g gatsby-cli&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h4&gt;테마 골라서 설치하기&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.org/starters/?v=2&quot;&gt;https://www.gatsbyjs.org/starters/?v=2&lt;/a&gt; 에서 원하는 테마 찾아보기&lt;br&gt;
+&lt;h4 id=&quot;테마-골라서-설치하기&quot;&gt;&lt;a href=&quot;#%ED%85%8C%EB%A7%88-%EA%B3%A8%EB%9D%BC%EC%84%9C-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0&quot; aria-label=&quot;테마 골라서 설치하기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;테마 골라서 설치하기&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.gatsbyjs.org/starters/?v=2&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.gatsbyjs.org/starters/?v=2&lt;/a&gt; 에서 원하는 테마 찾아보기&lt;br&gt;
 가장 별이 많은 기본 테마로 해보았다.&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;gatsby new &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;원하는 폴더 이름&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt; https://github.com/gatsbyjs/gatsby-starter-blog
 &lt;span class=&quot;token builtin class-name&quot;&gt;cd&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;(&lt;/span&gt;원하는 폴더 이름&lt;span class=&quot;token punctuation&quot;&gt;)&lt;/span&gt;
 gatsby develop&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;까지하면 &lt;a href=&quot;http://localhost:8000&quot;&gt;http://localhost:8000&lt;/a&gt; 에서 블로그를 확인할 수 있다!  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;그런데 VM(구름IDE, Google Cloud Platform 등)을 이용하는 경우에 localhost에 어떻게 접속하지? =&gt;&lt;/strong&gt; &lt;a href=&quot;https://shs395.github.io/gatsby-blog/vm-localhost/&quot;&gt;여기에서 확인&lt;/a&gt;&lt;/p&gt;
-&lt;h3&gt;글 작성하기&lt;/h3&gt;
+&lt;p&gt;까지하면 &lt;a href=&quot;http://localhost:8000&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;http://localhost:8000&lt;/a&gt; 에서 블로그를 확인할 수 있다!  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;그런데 VM(구름IDE, Google Cloud Platform 등)을 이용하는 경우에 localhost에 어떻게 접속하지? =&gt;&lt;/strong&gt; &lt;a href=&quot;https://shs395.github.io/gatsby-blog/vm-localhost/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;여기에서 확인&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;글-작성하기&quot;&gt;&lt;a href=&quot;#%EA%B8%80-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0&quot; aria-label=&quot;글 작성하기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;글 작성하기&lt;/h3&gt;
 &lt;p&gt;content/blog/gatsby-blog/index.md&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;---
 title: 빠르게 Gatsby + Github pages 로 블로그 만들기
@@ -191,7 +238,7 @@ description: Gatsby 와 Github pages 로 빠르게 블로그를 만들고 배포
 
 ### 이 글을 보면 좋은 사람들
 (생략)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;블로그 정보 수정하기&lt;/h3&gt;
+&lt;h3 id=&quot;블로그-정보-수정하기&quot;&gt;&lt;a href=&quot;#%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A0%95%EB%B3%B4-%EC%88%98%EC%A0%95%ED%95%98%EA%B8%B0&quot; aria-label=&quot;블로그 정보 수정하기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;블로그 정보 수정하기&lt;/h3&gt;
 &lt;p&gt;gatsby-config.js - 블로그와 관련한 설정을 하는 파일&lt;br&gt;
 블로그 이름 등등을 바꿔주자&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;siteMetadata: {
@@ -201,10 +248,10 @@ description: Gatsby 와 Github pages 로 빠르게 블로그를 만들고 배포
     siteUrl: `블로그 주소`,
     social: {
     },&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;github pages 배포&lt;/h3&gt;
+&lt;h3 id=&quot;github-pages-배포&quot;&gt;&lt;a href=&quot;#github-pages-%EB%B0%B0%ED%8F%AC&quot; aria-label=&quot;github pages 배포 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;github pages 배포&lt;/h3&gt;
 &lt;p&gt;gh-pages package 설치&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; &lt;span class=&quot;token function&quot;&gt;install&lt;/span&gt; gh-pages --save-dev&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h4&gt;배포하려는 github repository 이름이 username.github.io 가 아닌 경우&lt;/h4&gt;
+&lt;h4 id=&quot;배포하려는-github-repository-이름이-usernamegithubio-가-아닌-경우&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%ED%8F%AC%ED%95%98%EB%A0%A4%EB%8A%94-github-repository-%EC%9D%B4%EB%A6%84%EC%9D%B4-usernamegithubio-%EA%B0%80-%EC%95%84%EB%8B%8C-%EA%B2%BD%EC%9A%B0&quot; aria-label=&quot;배포하려는 github repository 이름이 usernamegithubio 가 아닌 경우 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배포하려는 github repository 이름이 username.github.io 가 아닌 경우&lt;/h4&gt;
 &lt;p&gt;gatsby-config.js&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;javascript&quot;&gt;&lt;pre class=&quot;language-javascript&quot;&gt;&lt;code class=&quot;language-javascript&quot;&gt;module&lt;span class=&quot;token punctuation&quot;&gt;.&lt;/span&gt;exports &lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
   pathPrefix&lt;span class=&quot;token punctuation&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;/respository이름&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;,&lt;/span&gt;
@@ -215,7 +262,7 @@ description: Gatsby 와 Github pages 로 빠르게 블로그를 만들고 배포
     &lt;span class=&quot;token property&quot;&gt;&quot;deploy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby build --prefix-paths &amp;amp;&amp;amp; gh-pages -d public&quot;&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h4&gt;배포하려는 github repository 이름이 username.github.io 인 경우&lt;/h4&gt;
+&lt;h4 id=&quot;배포하려는-github-repository-이름이-usernamegithubio-인-경우&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%ED%8F%AC%ED%95%98%EB%A0%A4%EB%8A%94-github-repository-%EC%9D%B4%EB%A6%84%EC%9D%B4-usernamegithubio-%EC%9D%B8-%EA%B2%BD%EC%9A%B0&quot; aria-label=&quot;배포하려는 github repository 이름이 usernamegithubio 인 경우 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배포하려는 github repository 이름이 username.github.io 인 경우&lt;/h4&gt;
 &lt;p&gt;gatsby-config.js 수정 X&lt;br&gt;
 package.json&lt;/p&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;json&quot;&gt;&lt;pre class=&quot;language-json&quot;&gt;&lt;code class=&quot;language-json&quot;&gt;&lt;span class=&quot;token punctuation&quot;&gt;{&lt;/span&gt;
@@ -223,60 +270,6 @@ package.json&lt;/p&gt;
     &lt;span class=&quot;token property&quot;&gt;&quot;deploy&quot;&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;gatsby build &amp;amp;&amp;amp; gh-pages -d public -b master&quot;&lt;/span&gt;
   &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;h3&gt;배포하기!&lt;/h3&gt;
+&lt;h3 id=&quot;배포하기&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0&quot; aria-label=&quot;배포하기 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배포하기!&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;username.github.io&lt;/u&gt; 혹은 &lt;u&gt;username.github.io/repo이름&lt;/u&gt; 에서 확인 가능하다.&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[단어 정리]]></title><description><![CDATA[A B C D E F G Git GraphQL H Hexo Homebrew I J Jekyll JSX K L M Markup language Markdown language N Node NPM Node Package Manager   O P Q R S…]]></description><link>https://shs395.github.io/dictionary/</link><guid isPermaLink="false">https://shs395.github.io/dictionary/</guid><pubDate>Mon, 09 Sep 2019 22:40:32 GMT</pubDate><content:encoded>&lt;h2&gt;A&lt;/h2&gt;
-&lt;h2&gt;B&lt;/h2&gt;
-&lt;h2&gt;C&lt;/h2&gt;
-&lt;h2&gt;D&lt;/h2&gt;
-&lt;h2&gt;E&lt;/h2&gt;
-&lt;h2&gt;F&lt;/h2&gt;
-&lt;h2&gt;G&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Git&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;GraphQL&lt;/p&gt;
-&lt;h2&gt;H&lt;/h2&gt;
-&lt;/li&gt;
-&lt;li&gt;Hexo&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Homebrew&lt;/p&gt;
-&lt;h2&gt;I&lt;/h2&gt;
-&lt;h2&gt;J&lt;/h2&gt;
-&lt;/li&gt;
-&lt;li&gt;Jekyll&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;JSX&lt;/p&gt;
-&lt;h2&gt;K&lt;/h2&gt;
-&lt;h2&gt;L&lt;/h2&gt;
-&lt;h2&gt;M&lt;/h2&gt;
-&lt;/li&gt;
-&lt;li&gt;Markup language&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Markdown language&lt;/p&gt;
-&lt;h2&gt;N&lt;/h2&gt;
-&lt;/li&gt;
-&lt;li&gt;Node&lt;/li&gt;
-&lt;li&gt;NPM&lt;br&gt;
-Node Package Manager  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;O&lt;/h2&gt;
-&lt;h2&gt;P&lt;/h2&gt;
-&lt;h2&gt;Q&lt;/h2&gt;
-&lt;h2&gt;R&lt;/h2&gt;
-&lt;h2&gt;S&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;SEO&lt;/p&gt;
-&lt;h2&gt;T&lt;/h2&gt;
-&lt;h2&gt;U&lt;/h2&gt;
-&lt;h2&gt;V&lt;/h2&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Vagrant&lt;/p&gt;
-&lt;h2&gt;W&lt;/h2&gt;
-&lt;h2&gt;X&lt;/h2&gt;
-&lt;h2&gt;Y&lt;/h2&gt;
-&lt;h2&gt;Z&lt;/h2&gt;
-&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;username.github.io&lt;/u&gt; 혹은 &lt;u&gt;username.github.io/repo이름&lt;/u&gt; 에서 확인 가능하다.&lt;/strong&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
