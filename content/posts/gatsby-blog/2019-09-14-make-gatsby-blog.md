@@ -3,7 +3,7 @@ title: 빠르게 Gatsby + Github pages 로 블로그 만들기
 date: "2019-09-14T16:00:00+09:00"
 template: "post"
 draft: false
-slug: "/posts/gatsby-blog"
+slug: "/posts/gatsby-blog/make-gatsby-blog"
 category: "Gatsby"
 tags:
   - "Gatsby"
@@ -55,7 +55,7 @@ gatsby develop
 
 까지하면 http://localhost:8000 에서 블로그를 확인할 수 있다!  
 
-**그런데 VM(구름IDE, Google Cloud Platform 등)을 이용하는 경우에 localhost에 어떻게 접속하지? =>** [여기에서 확인](https://shs395.github.io/gatsby-blog/vm-localhost/)
+**그런데 VM(구름IDE, Google Cloud Platform 등)을 이용하는 경우에 localhost에 어떻게 접속하지? =>** [여기에서 확인](/posts/gatsby-blog/access-vm-localhost)
 
 ### 글 작성하기
 

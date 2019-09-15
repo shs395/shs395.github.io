@@ -3,10 +3,11 @@
   "name": "gatsby-starter-lumen",
   "description": "A minimal, lightweight and mobile-first starter for creating blazing-fast static blogs",
   "main": "n/a",
-  "scripts": {
-    "develop": "yarn run clean && gatsby develop",
-    "build": "yarn run clean && gatsby build",
+  "scripts": {    
+    "develop": "gatsby develop",
+    "build": "gatsby build",
     "deploy": "gatsby build && gh-pages -d public -b master",
+    "deploym": "gatsby build && gh-pages -d public -b master -m",
     "clean": "rimraf .cache public",
     "flow": "flow",
     "lint:js": "eslint --cache --ext .js,.jsx .",
@@ -14,7 +15,9 @@
     "lint": "concurrently \"yarn run lint:js\" \"yarn run lint:scss\" \"yarn flow\"",
     "test": "jest --config ./jest/jest-config.js",
     "test:coverage": "jest --coverage --config ./jest/jest-config.js",
-    "test:watch": "jest --watch --config ./jest/jest-config.js"
+    "test:watch": "jest --watch --config ./jest/jest-config.js",
+    "format": "prettier --write \"**/*.{js,jsx,json,md}\"",
+    "serve": "gatsby serve"
   },
   "repository": "https://github.com/alxshelepenok/gatsby-starter-lumen",
   "author": "Alexander Shelepenok <alxshelepenok@gmail.com>",

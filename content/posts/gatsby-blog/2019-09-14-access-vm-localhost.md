@@ -3,7 +3,7 @@ title: VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경
 date: "2019-09-14T18:30:00+09:00"
 template: "post"
 draft: false
-slug: "/posts/gatsby-blog/vm-localhost"
+slug: "/posts/gatsby-blog/access-vm-localhost"
 category: "Gatsby"
 tags:
   - "Gatsby"
@@ -35,7 +35,7 @@ gatsby develop --host 0.0.0.0
 구름IDE는 자체적으로 이 부분을 만들어주었다.  
 상단 메뉴 프로젝트 -> 실행 URL과 포트를 눌러보면 다음과 같은 창이 뜬다.  
 
-![실행 URL과 포트](./url-port.PNG)  
+![실행 URL과 포트](/media/gatsby-blog/url-port.PNG)  
 
 1. 원하는 도메인 주소를 등록  
 1. 포트는 8000으로 설정 (development server가 8000번 포트가 열려있기 때문이다. 원하는 포트에 따라 값을 바꾸자)  
@@ -49,11 +49,11 @@ gatsby develop --host 0.0.0.0
 
 google cloud platform 같은 경우에는 먼저 gcp 자체의 방화벽 설정을 해주어야한다.  
 
-![방화벽 규칙](./firewall.PNG)  
+![방화벽 규칙](/media/gatsby-blog/firewall.PNG)  
 
 VPC 네트워크 -> 방화벽 규칙에 들어가준다.
 
-![방화벽 규칙 만들기](./make-firewall.PNG)  
+![방화벽 규칙 만들기](/media/gatsby-blog/make-firewall.PNG)  
 
 방화벽 규칙 만들기 클릭 후   
 트래픽 방향 : 수신  
@@ -62,7 +62,7 @@ VPC 네트워크 -> 방화벽 규칙에 들어가준다.
 프로토콜 및 포트: 지정된 프로토콜 및 포트 - tcp 체크 후 8000 작성  
 만들기  
 
-![외부 IP주소](./gcp-ip.PNG)  
+![외부 IP주소](/media/gatsby-blog/gcp-ip.PNG)  
 
 google cloud platform 같은 경우에는 다음과 같이 VM의 외부 ip주소가 있을 것이다.  
 http://외부IP주소:8000 으로 접속하면 된다.  
