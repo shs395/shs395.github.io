@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://shs395.github.io/sitemap.xml
+Host: https://shs395.github.io
