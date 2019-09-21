@@ -20,8 +20,8 @@ module.exports = {
       path: '/pages/about'
     },
     {
-      label: 'TIL',
-      path: '/category/til'
+      label: 'TWIL',
+      path: '/category/twil'
     },
     {
       label: 'My Dictionary',

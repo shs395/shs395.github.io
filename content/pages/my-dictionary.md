@@ -26,6 +26,7 @@ socialImage: ""
 #### K
 #### L
 #### M
+- Maria DB
 - Markup language
 - Markdown language  
 
@@ -39,8 +40,10 @@ Node Package Manager
 #### P
 #### Q
 #### R
+- Redis
 #### S
 - SEO  
+- SQL
 
 #### T
 #### U
