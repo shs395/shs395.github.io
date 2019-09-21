@@ -3,18 +3,18 @@
 <url> <loc>https://shs395.github.io/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/pages/my-dictionary/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/pages/til/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/pages/useful-websites/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/gatsby-blog/access-vm-localhost</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/gatsby-blog/make-gatsby-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/gatsby-blog/manage-blog-file</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/posts/til/2019-09-14</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/posts/til/2019-09-15</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/pages/my-dictionary/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/pages/twil/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/2019-09-14</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/start</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/2019-09-15</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/tag/til</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/tag/twil</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/category/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/category/til</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/category/twil</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
