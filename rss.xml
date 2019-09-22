@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치매예방노트]]></title><description><![CDATA[기록하는 습관을 기르자]]></description><link>https://shs395.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 21 Sep 2019 10:39:29 GMT</lastBuildDate><item><title><![CDATA[TWIL 시작]]></title><link>https://shs395.github.io//posts/twil/start</link><guid isPermaLink="false">https://shs395.github.io//posts/twil/start</guid><pubDate>Sat, 21 Sep 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;일주일 간 TIL 을 해보려고 하니, 평일에는 사지방을 이용하더라도 배운 것이 없는 날도 많고, 훈련기간에는 사지방 이용이 제한되어서 TWIL (This Week I Learned) 로 한 주를 정리해보려고 한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[190915_TIL]]></title><link>https://shs395.github.io//posts/twil/2019-09-15</link><guid isPermaLink="false">https://shs395.github.io//posts/twil/2019-09-15</guid><pubDate>Sun, 15 Sep 2019 11:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%ED%95%9C-%EC%9D%BC&quot; aria-label=&quot;오늘 한 일 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 한 일&lt;/h3&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치매예방IT노트]]></title><description><![CDATA[기록하는 습관을 기르자]]></description><link>https://shs395.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 22 Sep 2019 00:10:23 GMT</lastBuildDate><item><title><![CDATA[TWIL 시작]]></title><description><![CDATA[This Week I Learn - 한 주간 배운 내용 정리를 시작해본다.]]></description><link>https://shs395.github.io//posts/twil/start</link><guid isPermaLink="false">https://shs395.github.io//posts/twil/start</guid><pubDate>Sat, 21 Sep 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;일주일 간 TIL 을 해보려고 하니, 평일에는 사지방을 이용하더라도 배운 것이 없는 날도 많고, 훈련기간에는 사지방 이용이 제한되어서 TWIL (This Week I Learned) 로 한 주를 정리해보려고 한다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[190915_TIL]]></title><link>https://shs395.github.io//posts/twil/2019-09-15</link><guid isPermaLink="false">https://shs395.github.io//posts/twil/2019-09-15</guid><pubDate>Sun, 15 Sep 2019 11:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;오늘-한-일&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%ED%95%9C-%EC%9D%BC&quot; aria-label=&quot;오늘 한 일 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 한 일&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;블로그 포스트 1개 작성&lt;/p&gt;
@@ -125,8 +125,8 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           src=&quot;/static/06441dc6d14efc27ce419ee95653a797/d5c82/url-port.png&quot;
-          alt=&quot;실행 URL과 포트&quot;
-          title=&quot;실행 URL과 포트&quot;
+          alt=&quot;구름 IDE 실행 URL과 포트&quot;
+          title=&quot;구름 IDE 실행 URL과 포트&quot;
           loading=&quot;lazy&quot;
         /&gt;
       &lt;/picture&gt;
@@ -173,8 +173,8 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           src=&quot;/static/2d56ed31d2b61d7ff254bc4b91568996/07a90/firewall.png&quot;
-          alt=&quot;방화벽 규칙&quot;
-          title=&quot;방화벽 규칙&quot;
+          alt=&quot;방화벽 규칙 들어가기&quot;
+          title=&quot;방화벽 규칙 들어가기&quot;
           loading=&quot;lazy&quot;
         /&gt;
       &lt;/picture&gt;
@@ -260,8 +260,8 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
           src=&quot;/static/50823ef5b55319472cbb1e06937b6b4f/f570d/gcp-ip.png&quot;
-          alt=&quot;외부 IP주소&quot;
-          title=&quot;외부 IP주소&quot;
+          alt=&quot;GCP VM인스턴스의 외부 IP주소 확인법&quot;
+          title=&quot;GCP VM인스턴스의 외부 IP주소 확인법&quot;
           loading=&quot;lazy&quot;
         /&gt;
       &lt;/picture&gt;
