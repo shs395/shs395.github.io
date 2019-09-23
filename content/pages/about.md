@@ -26,5 +26,7 @@ socialImage: "/media/image-2.jpg"
 - Blockchain
 - Machine Learning
 - AI
-
+- License
+- Design Patterns
+- Regular expression
 

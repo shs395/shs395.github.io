@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://shs395.github.io/',
   pathPrefix: '/',
-  title: '치매예방노트',
+  title: '치매예방IT노트',
   subtitle: '기록하는 습관을 기르자',
   copyright: '© 2019. Hyunsuk Shin All rights reserved.',
   disqusShortname: 'blog-imlodp2whp',
