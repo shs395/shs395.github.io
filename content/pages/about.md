@@ -29,4 +29,5 @@ socialImage: "/media/image-2.jpg"
 - License
 - Design Patterns
 - Regular expression
+- Vim
 
