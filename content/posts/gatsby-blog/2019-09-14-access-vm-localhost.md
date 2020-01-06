@@ -1,6 +1,6 @@
 ---
 title: VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기
-date: "2019-09-14T18:30:00+09:00"
+date: "2019-09-14T21:00:00+09:00"
 template: "post"
 draft: false
 slug: "/posts/gatsby-blog/access-vm-localhost"

@@ -1,6 +1,6 @@
 ---
 title: 빠르게 Gatsby + Github pages 로 블로그 만들기
-date: "2019-09-14T16:00:00+09:00"
+date: "2019-09-14T21:00:00+09:00"
 template: "post"
 draft: false
 slug: "/posts/gatsby-blog/make-gatsby-blog"

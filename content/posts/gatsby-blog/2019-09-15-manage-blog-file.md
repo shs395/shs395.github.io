@@ -1,6 +1,6 @@
 ---
 title: github branch로 gatsby 블로그 파일 관리하기
-date: "2019-09-15T19:00:00+09:00"
+date: "2019-09-15T21:00:00+09:00"
 template: "post"
 draft: false
 slug: "/posts/gatsby-blog/manage-blog-file"

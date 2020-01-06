@@ -20,7 +20,8 @@ socialImage: ""
 - HTTP
 HyperText Transfer Protocol
 - HTTPS
-Secure HyperText Transfer Protocol  
+Secure HyperText Transfer Protocol 
+
 #### I
 #### J
 - Jekyll
@@ -46,6 +47,7 @@ Node Package Manager
 #### Q
 #### R
 - Redis
+
 #### S
 - SEO  
 - SQL
@@ -56,6 +58,7 @@ Scalable Vector Graphics 2차원 벡터 그래픽을 표현하기 위한 XML 기
 #### U
 - URL
 Uniform Resource Locator  
+
 #### V
 - Vagrant  
 
@@ -63,5 +66,6 @@ Uniform Resource Locator
 #### X
 - XHTML
 EXtensible HyperText Markup Language  
+
 #### Y
 #### Z
