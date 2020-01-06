@@ -1,3 +1,12 @@
+#### 블로그 관리에 필요한 명령어  
+배포  
+- npm run deploy (커밋 내용 : Updates)
+- (== gatsby build && gh-pages -d public -b master)
+- npm run deploym "원하는 커밋내용" (따로 만든 명령어)  
+
+#### 블로그 파일 관리  
+- https://shs395.github.io/posts/gatsby-blog/manage-blog-file  
+
 <h1 align="center">
     <img alt="Lumen" title="Lumen" src="https://github.com/alxshelepenok/gatsby-starter-lumen/blob/gatsby-v2/.github/logo.png" width="140"> </br>
     Lumen
