@@ -28,6 +28,8 @@ const Layout = ({
       <Helmet>
         <html lang="en" />
         <title>{title}</title>
+        <meta name="google-site-verification" content="bFQ5I5pcIqfQ-YuSKi72Tl4we972OytckilzJ8FtU9E" />
+        <meta name="google-site-verification" content="0kHRduqMcvEX73cV8elp2WcTvizIAI7_lc049l0yoIk" />
         <meta name="description" content={description} />
         <meta property="og:site_name" content={title} />
         <meta property="og:image" content={metaImageUrl} />

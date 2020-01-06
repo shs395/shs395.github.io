@@ -37,6 +37,7 @@
 - config.js -> 블로그 관련 설정 (블로그 이름 등)
 - package.json -> npm run script 만들 때 사용 / 까먹었을 때 참고
 - gatsby/pagination/create-posts-pages.js -> 12번째 줄 category: { ne: "TWIL" } 를 통해 TWIL 이 Articles 에서 안보이게 해줌
+- src/components/Layout/Layout.js -> helmet 태그 안에 구글 서치콘솔 html 태그 넣어주기
 
 --- 
 

@@ -8,7 +8,7 @@ module.exports = {
   copyright: '© 2019. Hyunsuk Shin All rights reserved.',
   disqusShortname: 'blog-imlodp2whp',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-155387089-1',
   useKatex: false, // math typesetting library for the web
   menu: [
     {
