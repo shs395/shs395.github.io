@@ -4,6 +4,11 @@
 - (== gatsby build && gh-pages -d public -b master)
 - npm run deploym "원하는 커밋내용" (따로 만든 명령어)  
 
+#### 검사
+- gatsby develop 
+- gatsbt develop -H 0.0.0.0
+http://localhost:8000 에서 확인 가능
+
 #### 블로그 파일 관리  
 - https://shs395.github.io/posts/gatsby-blog/manage-blog-file  
 
