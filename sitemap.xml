@@ -5,7 +5,6 @@
 <url> <loc>https://shs395.github.io/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/pages/my-dictionary/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/pages/twil/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/pages/useful-websites/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/gatsby-blog/make-gatsby-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/gatsby-blog/manage-blog-file</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/html/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -44,7 +43,6 @@
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-01</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-05</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-06</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/posts/twil/2020-02-07</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-08</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-09</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-14</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -52,6 +50,12 @@
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-04</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-03</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-02</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/pages/useful-websites/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/2020-02-07</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/2020-02-16</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/2020-02-21</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/2020-02-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/twil/2020-02-23</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/twil</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -64,6 +68,7 @@
 <url> <loc>https://shs395.github.io/tag/twil/page/7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/twil/page/8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/twil/page/9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/tag/twil/page/10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/category/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/category/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/category/twil</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -76,6 +81,7 @@
 <url> <loc>https://shs395.github.io/category/twil/page/7</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/category/twil/page/8</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/category/twil/page/9</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/category/twil/page/10</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/page/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
