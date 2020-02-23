@@ -21,4 +21,7 @@ https://youngban.tistory.com/16
 https://okky.kr/article/459448
 
 #### 7 Projects to practice HTML & CSS skills for beginners
-https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1
+https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners-8b9ed67a7dd1  
+
+#### 날씨 api
+https://openweathermap.org/
