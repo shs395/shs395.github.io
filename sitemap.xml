@@ -12,7 +12,6 @@
 <url> <loc>https://shs395.github.io/posts/html/1</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/html/3-style-guide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/html/2-html5</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://shs395.github.io/posts/blog/new-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/html/appendix-tag</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2019-09-15</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-04-15-retrospect</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -59,6 +58,7 @@
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-22</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-02-23</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/posts/twil/2020-03-15</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://shs395.github.io/posts/blog/new-blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/blog</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/gatsby</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://shs395.github.io/tag/html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
