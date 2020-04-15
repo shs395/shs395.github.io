@@ -7,6 +7,7 @@ slug: "/posts/twil/start"
 category: "TWIL"
 tags:
   - "TWIL"
+  - "Hidden"
 description: "This Week I Learn - 한 주간 배운 내용 정리를 시작해본다."
 socialImage: ""
 ---
