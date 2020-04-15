@@ -9,25 +9,3 @@ socialImage: "/media/image-2.jpg"
 <br>
 >2019.09.14
 ---  
-전역(21.01.25) 전에 공부,정리해보고 싶은 것들
-- 정보처리기사
-- 한국사
-- 전공과목(컴퓨터 구조, 운영체제)
-- Data Structure
-- Algorithm
-- HTML
-- CSS
-- JavaScript
-- NativeScript
-- Node 
-- Python
-- Linux
-- Docker
-- Blockchain
-- Machine Learning
-- AI
-- License
-- Design Patterns
-- Regular expression
-- Vim
-

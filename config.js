@@ -15,27 +15,11 @@ module.exports = {
       label: 'Articles',
       path: '/'
     },
-    {
-      label: 'About',
-      path: '/pages/about'
-    },
-    {
-      label: 'TWIL',
-      path: '/category/twil'
-    },
-    {
-      label: 'My Dictionary',
-      path: '/pages/my-dictionary'
-    },
-    {
-      label: 'Useful Websites',
-      path: '/pages/useful-websites'
-    }
   ],
   author: {
     name: 'Hyunsuk Shin',
-    photo: '/man-user.png',
-    bio: '~2021.01.25 군인',
+    photo: '/tallinn-sky.jpeg',
+    bio: '',
     contacts: {
       email: 'gdj03094@gmail.com',
       facebook: '',

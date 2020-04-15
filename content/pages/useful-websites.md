@@ -25,3 +25,9 @@ https://medium.com/@avicndugu/projects-to-practice-html-css-skills-for-beginners
 
 #### 날씨 api
 https://openweathermap.org/
+
+#### 해결 방법 - No 'Access-Control-Allow-Origin' header is present on the requested resource.
+https://kimyhcj.tistory.com/263
+
+#### How to use Axios to send HTTP requests in vanilla JavaScript
+https://attacomsian.com/blog/axios-javascript
