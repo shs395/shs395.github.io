@@ -6,7 +6,7 @@
 
 #### 검사
 - gatsby develop 
-- gatsbt develop -H 0.0.0.0
+- gatsby develop -H 0.0.0.0
 http://localhost:8000 에서 확인 가능
 
 #### 블로그 파일 관리  
