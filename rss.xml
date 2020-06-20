@@ -1,4 +1,199 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치매예방IT노트]]></title><description><![CDATA[기록하는 습관을 기르자]]></description><link>https://shs395.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 Apr 2020 08:14:37 GMT</lastBuildDate><item><title><![CDATA[[Git] 스테이징(git add) 안했을 때 지워지거나 수정된 파일 되돌리는 법]]></title><link>https://shs395.github.io//posts/git/go-back</link><guid isPermaLink="false">https://shs395.github.io//posts/git/go-back</guid><pubDate>Wed, 15 Apr 2020 12:00:02 GMT</pubDate><content:encoded>&lt;p&gt;Git의 주요 명령어는 add, commit, push 다.&lt;br&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치매예방IT노트]]></title><description><![CDATA[기록하는 습관을 기르자]]></description><link>https://shs395.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Jun 2020 09:02:07 GMT</lastBuildDate><item><title><![CDATA[군대 사지방에서 개발하는 방법들]]></title><description><![CDATA[Cloud IDE 최고!]]></description><link>https://shs395.github.io//posts/army/how-to-development-in-army</link><guid isPermaLink="false">https://shs395.github.io//posts/army/how-to-development-in-army</guid><pubDate>Sat, 20 Jun 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;사지방 컴퓨터의 운영체제가 하모니카OS가 아닌 win7인 경우에 해당하는 내용들이다.&lt;/p&gt;
+&lt;h2 id=&quot;하모니카를-쓴다면&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4%EB%A5%BC-%EC%93%B4%EB%8B%A4%EB%A9%B4&quot; aria-label=&quot;하모니카를 쓴다면 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;하모니카를 쓴다면?&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://white-hacker.tistory.com/entry/%EA%B5%B0%EB%8C%80-%EC%82%AC%EC%A7%80%EB%B0%A9-%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4-OS-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;군대 사지방 하모니카 OS 200% 활용하기&lt;/a&gt;&lt;br&gt;
+&lt;a href=&quot;https://hamonikr.org/Free_Board&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;하모니카 자유게시판&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;참고해보면 좋을 것 같다.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&quot;사지방-컴퓨터&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%82%AC%EC%A7%80%EB%B0%A9-%EC%BB%B4%ED%93%A8%ED%84%B0&quot; aria-label=&quot;사지방 컴퓨터 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;사지방 컴퓨터&lt;/h2&gt;
+&lt;p&gt;사지방 컴퓨터는 불편하다.&lt;br&gt;
+2시간이 되면 로그아웃되고 껐다 켜면 다운받은 파일이 사라진다.&lt;br&gt;
+우클릭도 안되고 cmd도 켜기 힘들다.&lt;br&gt;
+그래도 누군가가 다 좋은 방법을 알아놨더라.&lt;/p&gt;
+&lt;h3 id=&quot;powershell-이용하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#powershell-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0&quot; aria-label=&quot;powershell 이용하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;PowerShell 이용하기&lt;/h3&gt;
+&lt;p&gt;왼쪽 아래 윈도우 버튼을 누르고 검색창에 powershell을 검색해서 ‘Windows PowerShell’ 이라는 걸 열어준다.
+CMD는 검색해도 나오지 않아서 주로 PowerShell 명령어를 사용한다.&lt;/p&gt;
+&lt;h3 id=&quot;로그아웃-안되게-하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83-%EC%95%88%EB%90%98%EA%B2%8C-%ED%95%98%EA%B8%B0&quot; aria-label=&quot;로그아웃 안되게 하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;로그아웃 안되게 하기&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 533px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/e129d187fda11666fce2955efad62867/a1aa0/logoff.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 22.499999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABRElEQVQY00XMyU7CYBQF4C4ccCGgKKOKgKKAyAwtpK2AVEANJmBQQLC1BanRgEOChuBGTXwAn/fYVhIXX/57zv1zieHkE6O3V4zGEwyeX9C7ldFsXaFSrSKUIMFwp8jky6CyR0gyhwjGSEQpBkzhGHS+iFz5DCx3ghSdA8kWQEjjHwjDLwhP37gefKAlv6PUGCBZ4mHdK2IjUcVmqgZHtALj9gEMWyyWvFlYAhxswSLsobLG7C9oe8LHPcLJyLAkRawmRHhy94oHmOIizKmu0kkwRHjY0304MjKsVB/LMVGjZrU3RgXYlHedvgOhli5Who2U4KT7WEv3YE7ewE51FRJMMV7bqXS+S8wrZnfqmPHWofM3NHO7F1iYzoQ+zMMY6cAQ7mAlLmgH9KG2lhf329ontV8INEG4aiDcCs/5H/c0u//nX8CarCtIOdNUAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/e129d187fda11666fce2955efad62867/8ac56/logoff.webp 240w,
+/static/e129d187fda11666fce2955efad62867/d3be9/logoff.webp 480w,
+/static/e129d187fda11666fce2955efad62867/63d40/logoff.webp 533w&quot;
+          sizes=&quot;(max-width: 533px) 100vw, 533px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/e129d187fda11666fce2955efad62867/8ff5a/logoff.png 240w,
+/static/e129d187fda11666fce2955efad62867/e85cb/logoff.png 480w,
+/static/e129d187fda11666fce2955efad62867/a1aa0/logoff.png 533w&quot;
+          sizes=&quot;(max-width: 533px) 100vw, 533px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/e129d187fda11666fce2955efad62867/a1aa0/logoff.png&quot;
+          alt=&quot;logoff&quot;
+          title=&quot;logoff&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;logoff&lt;/code&gt; 명령어를 통해 로그오프하면 두시간 이상 사용해도 꺼지지 않는다.&lt;/p&gt;
+&lt;h3 id=&quot;다운받은-파일-안-사라지게-하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A4%EC%9A%B4%EB%B0%9B%EC%9D%80-%ED%8C%8C%EC%9D%BC-%EC%95%88-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B2%8C-%ED%95%98%EA%B8%B0&quot; aria-label=&quot;다운받은 파일 안 사라지게 하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;다운받은 파일 안 사라지게 하기&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 526px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/aae2de32f818d54f817c84955ab700c0/2d7ab/ddrive.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 21.666666666666668%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAECAYAAACOXx+WAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABCklEQVQY00XKSU/CABCG4XrwplEWW3FBXEhcwQq0FUSipQl7wxZAMYA0VBIS0EjCxd/+2taDhycz830jNK0548WK2eeSyWxBf2hhNlqUqjViSZWnYh2j2iZrVEjc57hVMmg5g6xeIGeU0Ut11KyO4skjdOwVpeEPevcbo7ck3/lCb8+JZl4JyXXCao8j7YWw0iV4VcZ/WSbgEGM19uQGUsxEipsErytsnRcRtMKAg4cZ++kP/IkxkmoT1RfObrGjTPA5mUvSbESn275zb8sTSk/ZjI8IpiZet37RR5Cfe154mLHZVS0ij1MCCecpOUJMvbNx84ZPHrB21kaINBCOm39OHBF3tv6z0xa/5baJtCMDJ5wAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/aae2de32f818d54f817c84955ab700c0/8ac56/ddrive.webp 240w,
+/static/aae2de32f818d54f817c84955ab700c0/d3be9/ddrive.webp 480w,
+/static/aae2de32f818d54f817c84955ab700c0/9752a/ddrive.webp 526w&quot;
+          sizes=&quot;(max-width: 526px) 100vw, 526px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/aae2de32f818d54f817c84955ab700c0/8ff5a/ddrive.png 240w,
+/static/aae2de32f818d54f817c84955ab700c0/e85cb/ddrive.png 480w,
+/static/aae2de32f818d54f817c84955ab700c0/2d7ab/ddrive.png 526w&quot;
+          sizes=&quot;(max-width: 526px) 100vw, 526px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/aae2de32f818d54f817c84955ab700c0/2d7ab/ddrive.png&quot;
+          alt=&quot;ddrive&quot;
+          title=&quot;ddrive&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;ii d:&lt;/code&gt; 명령어를 입력하면 D 드라이브가 열린다. C 드라이브는 컴퓨터를 껐다 켜면 초기화되기 때문에 계속 쓰고 싶은 파일이 있다면 D 드라이브에 넣어놓으면 된다.&lt;/p&gt;
+&lt;h3 id=&quot;cmd-열기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#cmd-%EC%97%B4%EA%B8%B0&quot; aria-label=&quot;cmd 열기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;CMD 열기&lt;/h3&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 537px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c5fdfbd4a5d585258abb02168bd35967/b1cde/cmd.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 23.75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAFCAYAAABFA8wzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAABNElEQVQY042MWU/CUBSEL4vbgylroGp80AKKRlkKlmIDZRGrSDQGCkSjQIsUSXwwxvhAYjASE3/0eG/1B/jwZc7MnAyZzr/x8fmF6WyO55c39AcmOje3kJQCcmoNRe0ScklDRinjMCNDPFZRrNWhlE9RqV9DqWiQClWIeRXxZBak9ThHezyDbs3Qsd7RuHuFqJngEw2EE1fYzOoIUeWiVawKZXhjJwjunyF0UKdcILh3Dg/NWM+UhKQReGkILnEPX3qASOUJ3lQfwewQftEAl+xhPW+Bly0EaOZNGzZ8bgQf7f0ZE2vyGJ6UAbKlgwRoIKgTbMgPEEoTOm4ifGTY3p/u2fdCrA1XVIcr0oJTaMJJ1c08xf0Hyxy0I2x1Jd7F0m4Xy/FfFnc6NuyRKdlu/guH0MIPNMuoXdw9NkkAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c5fdfbd4a5d585258abb02168bd35967/8ac56/cmd.webp 240w,
+/static/c5fdfbd4a5d585258abb02168bd35967/d3be9/cmd.webp 480w,
+/static/c5fdfbd4a5d585258abb02168bd35967/27c24/cmd.webp 537w&quot;
+          sizes=&quot;(max-width: 537px) 100vw, 537px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c5fdfbd4a5d585258abb02168bd35967/8ff5a/cmd.png 240w,
+/static/c5fdfbd4a5d585258abb02168bd35967/e85cb/cmd.png 480w,
+/static/c5fdfbd4a5d585258abb02168bd35967/b1cde/cmd.png 537w&quot;
+          sizes=&quot;(max-width: 537px) 100vw, 537px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/c5fdfbd4a5d585258abb02168bd35967/b1cde/cmd.png&quot;
+          alt=&quot;cmd&quot;
+          title=&quot;cmd&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;cmd&lt;/code&gt; 명령어를 입력하면 powershell 창이 cmd 창으로 바뀐다. (모양은 같음)&lt;br&gt;
+&lt;code class=&quot;language-text&quot;&gt;exit&lt;/code&gt; 명령어를 통해 다시 powershell로 돌아갈 수 있다.&lt;/p&gt;
+&lt;h3 id=&quot;파일-이름-변경하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%8C%8C%EC%9D%BC-%EC%9D%B4%EB%A6%84-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0&quot; aria-label=&quot;파일 이름 변경하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;파일 이름 변경하기&lt;/h3&gt;
+&lt;p&gt;우클릭이 막혀있긴 하지만 쓸 일이 그렇게 많지는 않다.
+개인적으로 파일 이름을 변경해야 할 때 우클릭을 찾았는데 파일 이름 변경은 &lt;code class=&quot;language-text&quot;&gt;F2&lt;/code&gt;키로 쉽게 가능하다&lt;/p&gt;
+&lt;h2 id=&quot;개발환경&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD&quot; aria-label=&quot;개발환경 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;개발환경&lt;/h2&gt;
+&lt;p&gt;크게 세 가지로 나누어진다. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cloud IDE 사용하기(추천)&lt;/li&gt;
+&lt;li&gt;Virtual Machine 사용하기&lt;/li&gt;
+&lt;li&gt;컴퓨터에 텍스트 에디터 등의 프로그램을 설치해서 쓰기(비추천)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;cloud-ide-사용하기추천&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#cloud-ide-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%EC%B6%94%EC%B2%9C&quot; aria-label=&quot;cloud ide 사용하기추천 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Cloud IDE 사용하기(추천)&lt;/h3&gt;
+&lt;p&gt;Cloud IDE는 많다.&lt;br&gt;
+한국어를 지원하는 &lt;a href=&quot;https://ide.goorm.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;구름IDE&lt;/a&gt;, VSCode와 쏙 빼닮은 &lt;a href=&quot;https://www.gitpod.io/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Gitpod&lt;/a&gt;, &lt;a href=&quot;https://codeanywhere.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;CodeAnyWhere&lt;/a&gt; 등등 심지어 &lt;a href=&quot;https://www.macincloud.com/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;MacOS를 쓸 수 있게 해주는 곳 (macincloud)&lt;/a&gt;도 있다.
+이 중에서 자신이 원하는 곳을 쓰면 된다. &lt;strong&gt;하지만 나는 개인적으로 구름IDE를 추천한다.&lt;/strong&gt; 영어로 된 IDE는 뭔가 기가 빨리고 생산성이 저하되는 느낌이다..&lt;/p&gt;
+&lt;h4 id=&quot;장점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A5%EC%A0%90&quot; aria-label=&quot;장점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;장점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;굉장히 편함&lt;/li&gt;
+&lt;li&gt;cloud 기반이기 때문에 어디서든 작업의 연속성을 가질 수 있음&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;사지방에서 이용하기에는 최고라고 생각함&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;단점&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A8%EC%A0%90&quot; aria-label=&quot;단점 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;단점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;잘 모르겠음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;cloud-virtual-machine-사용하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#cloud-virtual-machine-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0&quot; aria-label=&quot;cloud virtual machine 사용하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Cloud Virtual Machine 사용하기&lt;/h3&gt;
+&lt;p&gt;GCP(Google Cloud Platform) 이나 AWS(Amazon Web Service)를 이용해서 가상머신을 하나 생성해서 쓰면 된다. 처음 회원가입을 하면 GCP는 1년 동안 쓸 수 있는 크레딧을, AWS는 1년 동안 무료로 사용할 수 있는 것들을 제공해 준다.  &lt;/p&gt;
+&lt;h4 id=&quot;장점-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A5%EC%A0%90-1&quot; aria-label=&quot;장점 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;장점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;구름IDE에서는 18,000원을 결제해야 사용할 수 있는 항상 켜두기 기능을 무료로도 사용할 수 있기 때문에 작은 서버가 필요할 때 이용할 수 있음&lt;/li&gt;
+&lt;li&gt;cloud 기반이기 때문에 어디서든 작업의 연속성을 가질 수 있음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;단점-1&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A8%EC%A0%90-1&quot; aria-label=&quot;단점 1 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;단점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;GUI가 아닌 CLI이다. GUI가 되게끔 설치할 수도 있겠지만 번거롭고 복잡하다.&lt;/li&gt;
+&lt;li&gt;Vim 을 잘 다루지 않는 한 텍스트 에디터보다 개발 속도가 현저히 느리다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;프로그램-직접-설치하기-비추천&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A7%81%EC%A0%91-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-%EB%B9%84%EC%B6%94%EC%B2%9C&quot; aria-label=&quot;프로그램 직접 설치하기 비추천 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;프로그램 직접 설치하기 (비추천)&lt;/h3&gt;
+&lt;p&gt;자기가 평소에 즐겨 쓰던 프로그램이 있을 것이다. Visual Studio Code, 아톰, sublime text 등 원하는 것을 골라서 &lt;code class=&quot;language-text&quot;&gt;D 드라이브&lt;/code&gt;에 설치해서 쓰면 된다. 주의할 점으로는 &lt;strong&gt;32bit로 설치해야 한다는 것&lt;/strong&gt;이다. &lt;/p&gt;
+&lt;h4 id=&quot;장점-2&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%9E%A5%EC%A0%90-2&quot; aria-label=&quot;장점 2 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;장점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;잘 모르겠음&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;단점-2&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%8B%A8%EC%A0%90-2&quot; aria-label=&quot;단점 2 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;단점&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;작업의 연속성이 없음, 해당 컴퓨터에서밖에 사용이 안됨&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;기타-추천-사이트&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B8%B0%ED%83%80-%EC%B6%94%EC%B2%9C-%EC%82%AC%EC%9D%B4%ED%8A%B8&quot; aria-label=&quot;기타 추천 사이트 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;기타 추천 사이트&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://neurowhai.tistory.com/192&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;사이버 지식 정보방(사지방) 개발 환경&lt;/a&gt;&lt;br&gt;
+(사지방에서 쓰기 좋은 사이트들을 정리해 준 블로그가 있는데 참고하기 좋다.) &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;출처 &amp;#x26; 참고 : &lt;a href=&quot;https://self-developing-developer.tistory.com/21&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;사지방에서 프로그래밍 공부하기 1탄 (기본적인 팁)&lt;/a&gt; &lt;/p&gt;</content:encoded></item><item><title><![CDATA[[Git] 스테이징(git add) 안했을 때 지워지거나 수정된 파일 되돌리는 법]]></title><link>https://shs395.github.io//posts/git/go-back</link><guid isPermaLink="false">https://shs395.github.io//posts/git/go-back</guid><pubDate>Wed, 15 Apr 2020 12:00:02 GMT</pubDate><content:encoded>&lt;p&gt;Git의 주요 명령어는 add, commit, push 다.&lt;br&gt;
 우리가 작업하는 공간은 워킹트리다(working tree)&lt;br&gt;
 &lt;code class=&quot;language-text&quot;&gt;git add&lt;/code&gt; 명령어는 추적되고 있지 않은 파일을 추적하거나 추적되고 있는 파일 중 변경된 파일을 스테이징한다. 커밋할 것을 정하는 것인데 워킹트리에서 스테이지로 임시로 올려준다고 생각하면 편하다.&lt;br&gt;
 &lt;code class=&quot;language-text&quot;&gt;git commit&lt;/code&gt; 명령어는 스테이징된 파일들을 기록해서 남기는 것이다. 임시 저장된 파일을 임시가 아닌 진짜로 기록한다고 생각하면 된다.&lt;/p&gt;
@@ -1434,7 +1629,48 @@ package.json&lt;/p&gt;
 &lt;span class=&quot;token punctuation&quot;&gt;}&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;h3 id=&quot;배포하기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0&quot; aria-label=&quot;배포하기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;배포하기!&lt;/h3&gt;
 &lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;bash&quot;&gt;&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token function&quot;&gt;npm&lt;/span&gt; run deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;username.github.io&lt;/u&gt; 혹은 &lt;u&gt;username.github.io/repo이름&lt;/u&gt; 에서 확인 가능하다.&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기]]></title><description><![CDATA[Gatsby 사용시 VM localhost 개발환경으로 접속하기]]></description><link>https://shs395.github.io//posts/gatsby-blog/access-vm-localhost</link><guid isPermaLink="false">https://shs395.github.io//posts/gatsby-blog/access-vm-localhost</guid><pubDate>Sat, 14 Sep 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost에 접속을 해서 내 블로그가 잘 만들어지고 있는지 확인을 못한다는 사실이었다. &lt;del&gt;그래서 배포를 통한 확인만이 답인가?&lt;/del&gt; 라는 바보같은 생각을 할 때쯤 구글링으로 답을 발견했다.&lt;br&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;username.github.io&lt;/u&gt; 혹은 &lt;u&gt;username.github.io/repo이름&lt;/u&gt; 에서 확인 가능하다.&lt;/strong&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[190914_TIL]]></title><link>https://shs395.github.io//posts/twil/2019-09-14</link><guid isPermaLink="false">https://shs395.github.io//posts/twil/2019-09-14</guid><pubDate>Sat, 14 Sep 2019 12:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;오늘-한-일&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%ED%95%9C-%EC%9D%BC&quot; aria-label=&quot;오늘 한 일 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 한 일&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;백준 알고리즘 풀기&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;블로그 포스트 2개 작성&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;../../posts/gatsby-blog/make-gatsby-blog&quot;&gt;빠르게 Gatsby + Github pages 로 블로그 만들기&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;../../posts/gatsby-blog/access-vm-localhost&quot;&gt;VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;오늘-배운-것&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%B0%B0%EC%9A%B4-%EA%B2%83&quot; aria-label=&quot;오늘 배운 것 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 배운 것&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;package.json 에서 scripts에 항목을 추가하여서 나만의 script를 사용할 수 있게 되었다.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“(원하는 이름)”: “(하고 싶은 명령)”&lt;/li&gt;
+&lt;li&gt;ex) “develop”: “gatsby develop”&lt;/li&gt;
+&lt;li&gt;npm run develop == gatsby develop &lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Zulu time&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;UTC(협정 세계시)를 뜻한다.&lt;/li&gt;
+&lt;li&gt;세슘 원자 진동수 기반&lt;/li&gt;
+&lt;li&gt;GMT(그리니치 평균시)는 UTC에 비해 오차가 커서 안쓴다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;vagrant  &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;간소화된 VM 관리 서비스라고 한다. &lt;a href=&quot;https://bcho.tistory.com/806&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;출처:Vagrant를 이용한 개발환경 관리(간단한 VM관리)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;내일-할-일&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%ED%95%A0-%EC%9D%BC&quot; aria-label=&quot;내일 할 일 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 할 일&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;sitemap.xml&lt;/li&gt;
+&lt;li&gt;구글에 검색되게 해보기&lt;/li&gt;
+&lt;li&gt;블로그 정리하기&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기]]></title><description><![CDATA[Gatsby 사용시 VM localhost 개발환경으로 접속하기]]></description><link>https://shs395.github.io//posts/gatsby-blog/access-vm-localhost</link><guid isPermaLink="false">https://shs395.github.io//posts/gatsby-blog/access-vm-localhost</guid><pubDate>Sat, 14 Sep 2019 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;gatsby 블로그를 만들면서 처음으로 만났던 문제는 VM의 localhost에 접속을 해서 내 블로그가 잘 만들어지고 있는지 확인을 못한다는 사실이었다. &lt;del&gt;그래서 배포를 통한 확인만이 답인가?&lt;/del&gt; 라는 바보같은 생각을 할 때쯤 구글링으로 답을 발견했다.&lt;br&gt;
 참고 : &lt;a href=&quot;https://geeklab.tistory.com/61?category=251056&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;jekyll를 이용한 GitHub Pages에 블로그 만들기 #1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;그 후에야 아래와 같이 공식홈페이지에 써있던 내용인 것을 알았다.&lt;/p&gt;
 &lt;p&gt;If you are using VM setup like vagrant and/or would like to listen on your local IP address, run gatsby develop — —host=0.0.0.0. Now, the development server listens on both ‘localhost’ and your local IP.  &lt;/p&gt;
@@ -1632,45 +1868,4 @@ gatsby develop --host 0.0.0.0&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;u&gt;(&lt;strong&gt;주의할 점: https 가 아닌 http 로 접속하자.&lt;/strong&gt;)&lt;/u&gt;&lt;/p&gt;
 &lt;h3 id=&quot;마무리&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%A7%88%EB%AC%B4%EB%A6%AC&quot; aria-label=&quot;마무리 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;마무리&lt;/h3&gt;
 &lt;p&gt;이제 &lt;a href=&quot;https://%EC%84%A4%EC%A0%95%ED%95%9C%EC%9D%B4%EB%A6%84.run.goorm.io&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://설정한이름.run.goorm.io&lt;/a&gt; 혹은 &lt;a href=&quot;http://%EC%99%B8%EB%B6%80IP%EC%A3%BC%EC%86%8C:8000&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;http://외부IP주소:8000&lt;/a&gt; 에 들어가서 VM의 &lt;a href=&quot;http://localhost:8000&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;http://localhost:8000&lt;/a&gt; 에 올라가 있는 블로그를 확인할 수 있을 것이다.&lt;/p&gt;
-&lt;p&gt;구름IDE 와 google cloud platform 에서 해보았는데 aws등과 같은 다른 곳도 비슷한 원리로 작동될 것이다. 또한 gastby가 아닌 jekyll이나 다른 프레임워크에서도 비슷한 원리로 작동될 듯 싶다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[190914_TIL]]></title><link>https://shs395.github.io//posts/twil/2019-09-14</link><guid isPermaLink="false">https://shs395.github.io//posts/twil/2019-09-14</guid><pubDate>Sat, 14 Sep 2019 12:00:00 GMT</pubDate><content:encoded>&lt;h3 id=&quot;오늘-한-일&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%ED%95%9C-%EC%9D%BC&quot; aria-label=&quot;오늘 한 일 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 한 일&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;백준 알고리즘 풀기&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;블로그 포스트 2개 작성&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;../../posts/gatsby-blog/make-gatsby-blog&quot;&gt;빠르게 Gatsby + Github pages 로 블로그 만들기&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;../../posts/gatsby-blog/access-vm-localhost&quot;&gt;VM(구름IDE, Google Cloud Platform 등)에서 Gatsby를 이용하는 경우에 localhost에 접속하기&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;오늘-배운-것&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%98%A4%EB%8A%98-%EB%B0%B0%EC%9A%B4-%EA%B2%83&quot; aria-label=&quot;오늘 배운 것 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;오늘 배운 것&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;package.json 에서 scripts에 항목을 추가하여서 나만의 script를 사용할 수 있게 되었다.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;“(원하는 이름)”: “(하고 싶은 명령)”&lt;/li&gt;
-&lt;li&gt;ex) “develop”: “gatsby develop”&lt;/li&gt;
-&lt;li&gt;npm run develop == gatsby develop &lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Zulu time&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;UTC(협정 세계시)를 뜻한다.&lt;/li&gt;
-&lt;li&gt;세슘 원자 진동수 기반&lt;/li&gt;
-&lt;li&gt;GMT(그리니치 평균시)는 UTC에 비해 오차가 커서 안쓴다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;vagrant  &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;간소화된 VM 관리 서비스라고 한다. &lt;a href=&quot;https://bcho.tistory.com/806&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;출처:Vagrant를 이용한 개발환경 관리(간단한 VM관리)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&quot;내일-할-일&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EB%82%B4%EC%9D%BC-%ED%95%A0-%EC%9D%BC&quot; aria-label=&quot;내일 할 일 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;내일 할 일&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;sitemap.xml&lt;/li&gt;
-&lt;li&gt;구글에 검색되게 해보기&lt;/li&gt;
-&lt;li&gt;블로그 정리하기&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;구름IDE 와 google cloud platform 에서 해보았는데 aws등과 같은 다른 곳도 비슷한 원리로 작동될 것이다. 또한 gastby가 아닌 jekyll이나 다른 프레임워크에서도 비슷한 원리로 작동될 듯 싶다.&lt;/p&gt;</content:encoded></item></channel></rss>
