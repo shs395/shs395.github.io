@@ -17,8 +17,8 @@ socialImage: ""
 
 ## 하모니카를 쓴다면? 
 
-[군대 사지방 하모니카 OS 200% 활용하기](https://white-hacker.tistory.com/entry/%EA%B5%B0%EB%8C%80-%EC%82%AC%EC%A7%80%EB%B0%A9-%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4-OS-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)  
-[하모니카 자유게시판](https://hamonikr.org/Free_Board)
+- [군대 사지방 하모니카 OS 200% 활용하기](https://white-hacker.tistory.com/entry/%EA%B5%B0%EB%8C%80-%EC%82%AC%EC%A7%80%EB%B0%A9-%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4-OS-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0)  
+- [하모니카 자유게시판](https://hamonikr.org/Free_Board)
 
 참고해보면 좋을 것 같다.
 
@@ -96,6 +96,6 @@ GCP(Google Cloud Platform) 이나 AWS(Amazon Web Service)를 이용해서 가상
 (사지방에서 쓰기 좋은 사이트들을 정리해 준 블로그가 있는데 참고하기 좋다.) 
 
 
-
+---
 
 출처 & 참고 : [사지방에서 프로그래밍 공부하기 1탄 (기본적인 팁)](https://self-developing-developer.tistory.com/21) 
