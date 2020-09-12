@@ -1,4 +1,56 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치매예방IT노트]]></title><description><![CDATA[기록하는 습관을 기르자]]></description><link>https://shs395.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 20 Jun 2020 14:30:22 GMT</lastBuildDate><item><title><![CDATA[군대 사지방에서 개발하는 방법들]]></title><description><![CDATA[Cloud IDE 최고!]]></description><link>https://shs395.github.io//posts/army/how-to-development-in-army</link><guid isPermaLink="false">https://shs395.github.io//posts/army/how-to-development-in-army</guid><pubDate>Sat, 20 Jun 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;사지방 컴퓨터의 운영체제가 하모니카OS가 아닌 win7인 경우에 해당하는 내용들이다.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[치매예방IT노트]]></title><description><![CDATA[기록하는 습관을 기르자]]></description><link>https://shs395.github.io/</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 12 Sep 2020 07:17:36 GMT</lastBuildDate><item><title><![CDATA[2020 정보처리기사 3회 필기 합격 후기]]></title><description><![CDATA[정보처리기사 필기 후기 및 공부법]]></description><link>https://shs395.github.io//posts/exam/engineer-information-processing</link><guid isPermaLink="false">https://shs395.github.io//posts/exam/engineer-information-processing</guid><pubDate>Sat, 12 Sep 2020 12:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;시험-후기&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%8B%9C%ED%97%98-%ED%9B%84%EA%B8%B0&quot; aria-label=&quot;시험 후기 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;시험 후기&lt;/h2&gt;
+&lt;p&gt;코로나로 인해서 시험 응시를 못할 뻔했지만 다행히도 8월 22일 시험에 응시할 수 있었다.
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 575px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/59415/score.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 40.416666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAA/klEQVQoz3VQXY+DIBD0//+91vYezNXXM1EBC0VAtzsb4YhNSTb7PcxOY4whpRTdbi3df+4ca7LWUtd11LZX6S3Lcpih38eDtNaSYxe+73u6XK6kOW9CCBRjJOccuZejknOM2rqukqM+zzP9DYN41FGDOSag+JPAc82+73R+dW3fN8lhYAPGYLZt/3XE+BSxAKaU5EzvvTTx8LP3a1nEDIDkzOdT8hoMjBF/BYwMmIcwEzjWWol+YIleBkw1YAY4n5zPzkxerOk4jjRNEw2so2V9CyDPFMC8AJ8ONmhsVQwP9oY1dM6KluHQ7AOw1gyGVwNmpuhBlvMVsBhDkeANhxtw+8+14MMAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/8ac56/score.webp 240w,
+/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/d3be9/score.webp 480w,
+/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/039fe/score.webp 575w&quot;
+          sizes=&quot;(max-width: 575px) 100vw, 575px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/8ff5a/score.png 240w,
+/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/e85cb/score.png 480w,
+/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/59415/score.png 575w&quot;
+          sizes=&quot;(max-width: 575px) 100vw, 575px&quot;
+          type=&quot;image/png&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/74a2ef31f9fb7a5e81ddeb03d3782a1d/59415/score.png&quot;
+          alt=&quot;score&quot;
+          title=&quot;score&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;br&gt;
+가채점대로 점수가 나와주었고 결과는 합격이었다. 데이터베이스에 대해서 잘 몰라서 제일 걱정했는데 기출문제랑 똑같이 나온 문제가 많아서 제일 점수가 높은 것 같다. 실기까지 붙는다면 그래도 1년 7개월이 막 아깝지는 않을 것 같다. &lt;/p&gt;
+&lt;h2 id=&quot;공부법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EA%B3%B5%EB%B6%80%EB%B2%95&quot; aria-label=&quot;공부법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;공부법&lt;/h2&gt;
+&lt;p&gt;3학년을 수료한 전공자이고 교재는 시나공이 유명한 것 같길래 시나공으로 했다.
+책을 0.7회독 정도 했는데 나중에 시간이 없어서 C 등급은 그냥 건너뛰기도 하고 안 건너뛴 부분들도 대충 읽고 문제를 열심히 풀었다. 그리고 18 ~ 19년도 기출문제를 풀어봤다. 어떤 블로그에서 전자계산기 구조 파트 빼고 풀어보라는 말에 전자계산기 구조와 데이터 통신 파트에서 안 나올 것 같은 문제들을 빼고 풀어봤다.&lt;/p&gt;
+&lt;h2 id=&quot;추천-공부법&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%EC%B6%94%EC%B2%9C-%EA%B3%B5%EB%B6%80%EB%B2%95&quot; aria-label=&quot;추천 공부법 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;추천 공부법&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;기출문제 + 개념서 1회독 + 개념서 문제 정도&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2020년부터 정보처리기사가 개편되어서 2020년 이전의 기출문제가 필요 없다고 생각할 수도 있지만 &lt;strong&gt;기출문제가 제일 중요한 것 같다&lt;/strong&gt;. 특히 데이터베이스 과목의 경우 바뀔 내용이 없어서인지 똑같은 문제가 많이 나오는 것 같다.
+강의를 듣는 건 시간이 아까울 것 같다. 4지 선다형에다가 전체의 60%만 맞으면 합격이니 지엽적인 부분은 과감하게 넘어가서 다 맞을 생각보다는 적당히 맞을 생각을 하는 게 좋을 것 같다.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[군대 사지방에서 개발하는 방법들]]></title><description><![CDATA[Cloud IDE 최고!]]></description><link>https://shs395.github.io//posts/army/how-to-development-in-army</link><guid isPermaLink="false">https://shs395.github.io//posts/army/how-to-development-in-army</guid><pubDate>Sat, 20 Jun 2020 12:00:00 GMT</pubDate><content:encoded>&lt;p&gt;사지방 컴퓨터의 운영체제가 하모니카OS가 아닌 win7인 경우에 해당하는 내용들이다.&lt;/p&gt;
 &lt;h2 id=&quot;하모니카를-쓴다면&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4%EB%A5%BC-%EC%93%B4%EB%8B%A4%EB%A9%B4&quot; aria-label=&quot;하모니카를 쓴다면 permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;하모니카를 쓴다면?&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&quot;https://white-hacker.tistory.com/entry/%EA%B5%B0%EB%8C%80-%EC%82%AC%EC%A7%80%EB%B0%A9-%ED%95%98%EB%AA%A8%EB%8B%88%EC%B9%B4-OS-200-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;군대 사지방 하모니카 OS 200% 활용하기&lt;/a&gt;  &lt;/li&gt;
