@@ -1,0 +1,18 @@
+python 설치하기
+- 맥에는 기본 적으로 파이썬이 깔려있음 2. 몇 버전
+- 기본 명령어는 python
+- 새로운 버전의 파이썬은 3 대이고 깔면 python3 를 통해서 실행시켜줘야댐
+- 명령어 바꾸는 법 https://nangkyeong.tistory.com/entry/macOS-Catalina에-python-3-pip-설치하기
+- Python -m 의 의미 https://www.reddit.com/r/learnpython/comments/8nn4za/i_dont_understand_what_python3_m_does/
+- 개 굳 블로그 https://tech.ssut.me/apple-silicon-m1-mac-mini-review/
+- arm homebrew 설치 - https://github.com/Homebrew/brew/pull/9117
+- 
+
+
+
+alias 저장 하기 - https://stackoverflow.com/questions/29790259/mac-how-to-save-alias-in-computer
+
+맥 터미널 설정하는데 도움 
+- https://stackoverflow.com/questions/64963370/error-cannot-install-in-homebrew-on-arm-processor-in-intel-default-prefix-usr
+- https://github.com/Homebrew/brew/issues/9173
+https://stackoverflow.com/questions/64882584/how-to-run-the-homebrew-installer-under-rosetta-2-on-m1-macbook
