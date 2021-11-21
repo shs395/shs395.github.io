@@ -43,3 +43,5 @@ jobs:
 ![deploy branch](/media/blog/select-deploy-branch.png)
 
 `Source` 에서 branch 를 `gh-pages` 로 바꿔주면 앞으로 push 할 때마다 자동으로 빌드되어서 `유저이름.github.io` 에서 확인할 수 있다.
+
+Netlify에서도 gatsby 블로그 자동배포가 가능하다 -> [netlify 로 gatsby 블로그 자동배포하기](/blog/auto-deploy-blog-on-netlify/)
