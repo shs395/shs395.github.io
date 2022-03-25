@@ -1,31 +1,64 @@
+const { NODE_ENV, CONTEXT: NETLIFY_ENV = NODE_ENV } = process.env;
+
+const metaConfig = require('./gatsby-meta-config');
+
 module.exports = {
-  pathPrefix: "",
-  siteMetadata: {
-    title: `UZZAM.dev`,
-    author: {
-      name: `Hyunsuk Shin`,
-      summary: ``,
-    },
-    description: ``,
-    siteUrl: `https://uzzam.dev`,
-    social: {
-      twitter: ``,
-    },
-    defaultImage: "images/bg.jpeg",
-  },
+  siteMetadata: metaConfig,
+
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/blog`,
-        name: `blog`,
+        name: `assets`,
+        path: `${__dirname}/assets`,
       },
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        path: `${__dirname}/content/assets`,
-        name: `assets`,
+        name: `content`,
+        path: `${__dirname}/content`,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        resolveEnv: () => NETLIFY_ENV,
+        env: {
+          production: {
+            policy: [{ userAgent: '*' }],
+          },
+          'branch-deploy': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+          'deploy-preview': {
+            policy: [{ userAgent: '*', disallow: ['/'] }],
+            sitemap: null,
+            host: null,
+          },
+        },
+      },
+    },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: metaConfig.ga,
+        head: true,
+        anonymize: true,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: metaConfig.title,
+        short_name: metaConfig.title,
+        description: metaConfig.description,
+        lang: `en`,
+        display: `standalone`,
+        start_url: `/`,
+        icon: `static/favicon.png`,
       },
     },
     {
@@ -35,59 +68,65 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 590,
+              maxWidth: 720,
+              linkImagesToOriginal: false,
+              backgroundColor: 'transparent',
             },
           },
           {
-            resolve: `gatsby-remark-responsive-iframe`,
+            resolve: `gatsby-remark-table-of-contents`,
             options: {
-              wrapperStyle: `margin-bottom: 1.0725rem`,
+              exclude: 'Table of Contents',
+              tight: false,
+              ordered: false,
+              fromHeading: 2,
+              toHeading: 6,
+              className: 'table-of-contents',
             },
           },
-          `gatsby-remark-prismjs`,
+          {
+            resolve: `gatsby-remark-prismjs`,
+            options: {
+              classPrefix: 'language-',
+              inlineCodeMarker: null,
+              aliases: {},
+              showLineNumbers: false,
+              noInlineHighlight: false,
+              languageExtensions: [
+                {
+                  language: 'superscript',
+                  extend: 'javascript',
+                  definition: {
+                    superscript_types: /(SuperType)/,
+                  },
+                  insertBefore: {
+                    function: {
+                      superscript_keywords: /(superif|superelse)/,
+                    },
+                  },
+                },
+              ],
+              prompt: {
+                user: 'root',
+                host: 'localhost',
+                global: false,
+              },
+              escapeEntities: {},
+            },
+          },
+          `gatsby-remark-autolink-headers`,
           `gatsby-remark-copy-linked-files`,
           `gatsby-remark-smartypants`,
         ],
       },
     },
+    `gatsby-theme-material-ui`,
     `gatsby-transformer-sharp`,
+    `gatsby-plugin-advanced-sitemap`,
     `gatsby-plugin-sharp`,
-    {
-      resolve: `gatsby-plugin-gtag`,
-      options: {
-        // your google analytics tracking id
-        trackingId: `G-95QK2V5WY2`,
-        // Puts tracking script in the head instead of the body
-        head: false,
-        // enable ip anonymization
-        anonymize: true,
-      },
-    },
-    `gatsby-plugin-feed`,
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: `Ryz`,
-        short_name: `Ryz`,
-        start_url: `/`,
-        background_color: `#ffffff`,
-        theme_color: `#663399`,
-        display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
-      },
-    },
-    `gatsby-plugin-react-helmet`,
-    {
-      resolve: `gatsby-plugin-typography`,
-      options: {
-        pathToConfigModule: `src/utils/typography`,
-      },
-    },
-    // this (optional) plugin enables Progressive Web App + Offline functionality
-    // To learn more, visit: https://gatsby.dev/offline
+    `gatsby-plugin-image`,
     `gatsby-plugin-offline`,
-    "gatsby-plugin-dark-mode",
-    `gatsby-plugin-postcss`,
-    `gatsby-plugin-sitemap`,
+    `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sass`,
   ],
-}
+};
