@@ -5,7 +5,7 @@ date: "2022-10-07T00:00:00.001Z"
 author: uzzam
 description: 
 tags: 
-categories: 프로젝트 Git
+categories: 프로젝트-담타
 ---
 
 ## 들어가며
