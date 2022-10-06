@@ -5,7 +5,7 @@ date: "2022-03-25T00:00:00.000Z"
 author: uzzam
 description: 
 tags: 
-categories: flutter 프로젝트 
+categories: flutter 프로젝트-담타 
 ---
 
 ## 🚀 들어가며

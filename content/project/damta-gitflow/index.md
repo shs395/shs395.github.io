@@ -1,11 +1,11 @@
 ---
 emoji: 
-title: 담타에 github flow 적용하기
+title: 담타 프로젝트 관리하기 1 - github flow 적용하기
 date: "2022-08-27T00:00:00.000Z"
 author: uzzam
 description: 
 tags: 
-categories: 프로젝트 Git
+categories: 프로젝트-담타
 ---
 
 ## 도입배경
